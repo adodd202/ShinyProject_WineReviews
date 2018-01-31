@@ -1,0 +1,2 @@
+load("/Users/adodd202/Documents/Bootcamp_Spring2018/wine-reviews/population.Rds")
+load("/Users/adodd202/Documents/Bootcamp_Spring2018/wine-reviews/smartWine.Rdata")

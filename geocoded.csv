@@ -1,0 +1,1615 @@
+"","lat","long","accuracy","formatted_address","address_type","status","index"
+"1",37.751005,14.9934349,"establishment","Mt Etna, 95031 Adrano, Province of Catania, Italy","establishment,natural_feature","OK",1
+"2",41.5120194,-5.4922548,"establishment","Douro River","establishment,natural_feature","OK",2
+"3",44.942554,-122.9337615,"establishment","Willamette Valley, Oregon, USA","establishment,natural_feature","OK",3
+"4",44.3237141,-84.6477829,"route","Shore Ave, Houghton Lake, MI 48629, USA","route","OK",4
+"6",NA,NA,NA,NA,NA,"ZERO_RESULTS",5
+"7",36.9520998,14.5372653,"locality","97019 Vittoria, Province of Ragusa, Italy","locality,political","OK",6
+"8",48.3181795,7.4416241,"colloquial_area","Alsace, France","colloquial_area,political","OK",7
+"9",49.8935328,8.0850303,"locality","Jugenheim in Rheinhessen, Germany","locality,political","OK",8
+"10",38.5024689,-122.2653887,"administrative_area_level_2","Napa County, CA, USA","administrative_area_level_2,political","OK",9
+"11",38.6129647,-122.7694345,"establishment","Alexander Valley, California 95448, USA","establishment,natural_feature","OK",10
+"12",36.691415,-119.4691728,"route","Central, Sanger, CA 93657, USA","route","OK",11
+"13",49.1169679,6.7399173,"establishment","Moselle","establishment,natural_feature","OK",12
+"14",-26.0834638,-65.9756201,"bar","RN40 Km. 4340, 4427 Cafayate, Salta, Argentina","bar,establishment,food,point_of_interest,restaurant,spa,travel_agency","OK",13
+"15",-32.8894587,-68.8458386,"locality","Mendoza, Capital Department, Mendoza Province, Argentina","locality,political","OK",14
+"16",41.5120194,-5.4922548,"establishment","Douro River","establishment,natural_feature","OK",15
+"17",37.4315734,-78.6568942,"administrative_area_level_1","Virginia, USA","administrative_area_level_1,political","OK",16
+"18",43.8041334,-120.5542012,"administrative_area_level_1","Oregon, USA","administrative_area_level_1,political","OK",17
+"19",37.5999938,14.0153557,"administrative_area_level_1","Sicily, Italy","administrative_area_level_1,political","OK",18
+"20",35.6368759,-120.6545022,"locality","Paso Robles, CA 93446, USA","locality,political","OK",19
+"21",38.291859,-122.4580356,"locality","Sonoma, CA 95476, USA","locality,political","OK",20
+"22",NA,NA,NA,NA,NA,"ZERO_RESULTS",21
+"23",36.9728095,14.5516064,"route","Via del Cerasuolo di Vittoria, 97019 Vittoria RG, Italy","route","OK",22
+"24",38.4198403,-121.5294026,"locality","Clarksburg, CA 95612, USA","locality,political","OK",23
+"25",NA,NA,NA,NA,NA,"ZERO_RESULTS",24
+"26",33.7555087,-117.7524061,"route","Dry Creek, Irvine, CA 92602, USA","route","OK",25
+"27",38.5779555,-122.9888319,"administrative_area_level_2","Sonoma County, CA, USA","administrative_area_level_2,political","OK",26
+"28",45.2101162,-123.1987163,"locality","McMinnville, OR 97128, USA","locality,political","OK",27
+"29",-33.3842305,-70.6696712,"route","Colchagua, Conchalí, Región Metropolitana, Chile","route","OK",28
+"30",40.7928393,17.1011931,"administrative_area_level_1","Apulia, Italy","administrative_area_level_1,political","OK",29
+"31",46.118725,4.615449,"locality","69430 Quincié-en-Beaujolais, France","locality,political","OK",30
+"32",-33.4662012,-70.638005,"route","Maule, Santiago, Región Metropolitana, Chile","route","OK",31
+"33",39.0839644,-122.8084496,"administrative_area_level_2","Lake County, CA, USA","administrative_area_level_2,political","OK",32
+"34",38.0086043,-78.4531994,"establishment","931 Thomas Jefferson Pkwy, Charlottesville, VA 22902, USA","establishment,point_of_interest","OK",33
+"35",46.105356,4.647113,"political","Brouilly, 69460 Odenas, France","political,sublocality,sublocality_level_1","OK",34
+"36",NA,NA,NA,NA,NA,"ZERO_RESULTS",35
+"37",44.8907958,-0.503366,"route","Avenue de Bordeaux, 33560 Carbon-Blanc, France","route","OK",36
+"38",38.0192523,-122.8631254,"colloquial_area","North Coast, CA, USA","colloquial_area,political","OK",37
+"39",-33.4072644,-70.6390583,"route","Maipo, Recoleta, Región Metropolitana, Chile","route","OK",38
+"40",47.4523058,-120.822886,"establishment","Columbia River","establishment,natural_feature","OK",39
+"41",45.4734243,9.2235197,"route","Viale Romagna, Milano MI, Italy","route","OK",40
+"42",48.9168895,4.1514325,"colloquial_area","Champagne, France","colloquial_area,political","OK",41
+"43",34.5841542,-120.0973685,"establishment","Santa Ynez Valley, California 93460, USA","establishment,natural_feature","OK",42
+"44",47.815269,3.800451,"locality","89800 Chablis, France","locality,political","OK",43
+"45",46.352288,4.705395,"route","Voie Verte (Chalon-sur-Saône - Mâcon), Milly-Lamartine, France","route","OK",44
+"46",36.778261,-119.4179324,"administrative_area_level_1","California, USA","administrative_area_level_1,political","OK",45
+"47",NA,NA,NA,NA,NA,"ZERO_RESULTS",46
+"48",38.58139,-122.45,"locality","Howell Mountain, CA 94508, USA","locality,political","OK",47
+"49",38.5787965,-122.5797054,"locality","Calistoga, CA 94515, USA","locality,political","OK",48
+"50",-30.0002315,136.2091547,"administrative_area_level_1","South Australia, Australia","administrative_area_level_1,political","OK",49
+"51",45.1312282,-123.1637138,"establishment","Amity Hills, Oregon 97101, USA","establishment,natural_feature","OK",50
+"52",39.722226,-5.5119887,"establishment","Tagus","establishment,natural_feature","OK",51
+"53",-33.3745902,-70.6702698,"route","Rapel, Conchalí, Región Metropolitana, Chile","route","OK",52
+"54",42.4270967,-8.8142264,"colloquial_area","Rías Baixas, Spain","colloquial_area,political","OK",53
+"55",38.6213413,-90.2129555,"bar","2017 Chouteau Ave, St. Louis, MO 63103, USA","bar,establishment,food,point_of_interest,restaurant","OK",54
+"56",-35.2210309,138.5461247,"locality","McLaren Vale SA 5171, Australia","locality,political","OK",55
+"57",47.1518811,-119.9223654,"establishment","Ancient Lakes Trailhead, Quincy, WA 98848, USA","establishment,park,point_of_interest","OK",56
+"58",39.2049824,-121.0232517,"route","Knights Ct, Grass Valley, CA 95945, USA","route","OK",57
+"59",43.4688988,11.0216314,"establishment","Località Santa Margherita, 34, 53037 San Gimignano SI, Italy","establishment,food,point_of_interest","OK",58
+"60",43.7710513,11.2486208,"administrative_area_level_1","Tuscany, Italy","administrative_area_level_1,political","OK",59
+"61",38.5779555,-122.9888319,"administrative_area_level_2","Sonoma County, CA, USA","administrative_area_level_2,political","OK",60
+"62",47.1537165,16.2688797,"administrative_area_level_1","Burgenland, Austria","administrative_area_level_1,political","OK",61
+"63",46.235505,4.709971,"locality","69840 Juliénas, France","locality,political","OK",62
+"64",46.136803,4.64105,"locality","69430 Régnié-Durette, France","locality,political","OK",63
+"65",42.7238165,-76.9297247,"colloquial_area","Finger Lakes, NY, USA","colloquial_area,political","OK",64
+"66",42.691557,11.325663,"establishment","Località Saragiolo, 58054 Scansano GR, Italy","establishment,food,liquor_store,point_of_interest,store","OK",65
+"67",-33.4952036,-70.7636066,"route","Leyda, Maipú, Región Metropolitana, Chile","route","OK",66
+"68",37.2488478,-121.8399593,"establishment","Santa Clara Valley, San Jose, CA 95123, USA","establishment,natural_feature","OK",67
+"69",38.4015781,-122.3608105,"locality","Yountville, CA 94599, USA","locality,political","OK",68
+"70",44.6088032,7.9403041,"locality","12060 Barolo CN, Italy","locality,political","OK",69
+"71",35.2166621,-118.788075,"route","Rockpile Rd, Arvin, CA 93203, USA","route","OK",70
+"72",-36.6270289,140.433893,"locality","Padthaway SA 5271, Australia","locality,political","OK",71
+"73",-33.9321045,18.860152,"locality","Stellenbosch, South Africa","locality,political","OK",72
+"74",-33.931612,18.870009,"establishment","Simonsberg Manskoshuis, Merriman Ave, Stellenbosch Central, Stellenbosch, 7599, South Africa","establishment,point_of_interest","OK",73
+"75",44.8401967,-0.5744919,"establishment","43 Rue Sainte-Catherine, 33000 Bordeaux, France","establishment,lodging,point_of_interest","OK",74
+"76",-34.4878561,19.3720717,"establishment","Walker Bay Nature Reserve, 16 17th ave, Walker Bay, Hermanus, 7200, South Africa","establishment,park,point_of_interest","OK",75
+"77",44.684189,8.0049344,"establishment","Corso Barolo, 14, 12051 Alba CN, Italy","establishment,food,point_of_interest","OK",76
+"78",36.4307709,-121.4203754,"establishment","33820 River Rd, Soledad, CA 93960, USA","establishment,food,point_of_interest","OK",77
+"79",37.4133977,-122.0831673,"route","Spring St, Mountain View, CA 94043, USA","route","OK",78
+"80",36.6002378,-121.8946761,"locality","Monterey, CA, USA","locality,political","OK",79
+"81",38.3341493,-8.0038406,"locality","7090 Viana do Alentejo, Portugal","locality,political","OK",80
+"82",36.4799024,-121.7327931,"locality","Carmel Valley, CA 93924, USA","locality,political","OK",81
+"83",NA,NA,NA,NA,NA,"ZERO_RESULTS",82
+"84",37.1108921,-121.8448906,"establishment","Santa Cruz Mountains, California 95037, USA","establishment,natural_feature","OK",83
+"85",43.3928073,11.3089636,"route","Via del Chianti Classico, Quercegrossa SI, Italy","route","OK",84
+"86",42.967171,11.437808,"establishment","Via Giuncheti, 53024 Montalcino SI, Italy","establishment,food,liquor_store,point_of_interest,store","OK",85
+"87",44.4475229,1.441989,"locality","46000 Cahors, France","locality,political","OK",86
+"88",35.2168996,-120.6077553,"establishment","2585 Biddle Ranch Rd, San Luis Obispo, CA 93401, USA","establishment,food,liquor_store,point_of_interest,store","OK",87
+"89",46.070956,4.6329209,"route","Moulin À Vent, 69460 Saint-Étienne-la-Varenne, France","route","OK",88
+"90",-33.4586627,-70.6524488,"route","Aconcagua, Santiago, Región Metropolitana, Chile","route","OK",89
+"91",43.549639,-0.057621,"locality","65700 Madiran, France","locality,political","OK",90
+"92",38.9116325,-123.0110483,"establishment","Russian River, California, USA","establishment,natural_feature","OK",91
+"93",-35.6761961,-71.7439129,"locality","Villa Alegre, Maule Region, Chile","locality,political","OK",92
+"94",-41.57269,173.4216613,"administrative_area_level_2","Marlborough District, Marlborough, New Zealand","administrative_area_level_2,political","OK",93
+"95",41.914988,12.4668885,"route","Via Luigi Settembrini, 00195 Roma RM, Italy","route","OK",94
+"96",36.9639606,-122.0514933,"route","Arroyo Seco, Santa Cruz, CA 95060, USA","route","OK",95
+"97",NA,NA,NA,NA,NA,"ZERO_RESULTS",96
+"98",39.0865657,-123.4794542,"establishment","Anderson Valley, California 95466, USA","establishment,natural_feature","OK",97
+"99",-33.4945909,-70.5784644,"route","Casablanca, Penalolen, Peñalolén, Región Metropolitana, Chile","route","OK",98
+"100",41.1099473,14.8475139,"administrative_area_level_1","Campania, Italy","administrative_area_level_1,political","OK",99
+"101",45.4437804,10.9800636,"route","Via Rosso, 37123 Verona VR, Italy","route","OK",100
+"102",46.998258,4.708748,"locality","21190 Saint-Romain, France","locality,political","OK",101
+"103",43.093002,11.781014,"establishment","Piazza Grande, 7, 53045 Montepulciano SI, Italy","establishment,point_of_interest,travel_agency","OK",102
+"104",-33.2277918,21.8568586,"administrative_area_level_1","Western Cape, South Africa","administrative_area_level_1,political","OK",103
+"105",39.1346666,-121.1710389,"administrative_area_level_2","Nevada County, CA, USA","administrative_area_level_2,political","OK",104
+"106",31.6666667,35.1666667,"establishment","Har Yehuda","establishment,natural_feature","OK",105
+"107",40.3133521,-7.8007077,"neighborhood","Alentejo, 3400 Oliveira do Hospital, Portugal","neighborhood,political","OK",106
+"108",13.2229202,-16.5819789,"administrative_area_level_1","West Coast Region, The Gambia","administrative_area_level_1,political","OK",107
+"109",45.466861,4.8976656,"route","La France, 38138 Les Côtes-d'Arey, France","route","OK",108
+"110",NA,NA,NA,NA,NA,"ZERO_RESULTS",109
+"111",NA,NA,NA,NA,NA,"ZERO_RESULTS",110
+"112",32.795859,35.530973,"locality","Tiberias, Israel","locality,political","OK",111
+"113",NA,NA,NA,NA,NA,"ZERO_RESULTS",112
+"114",48.1172148,21.4089015,"locality","Tokaj, 3910 Hungary","locality,political","OK",113
+"115",-33.0391038,-68.8798644,"locality","Luján de Cuyo, Mendoza Province, Argentina","locality,political","OK",114
+"116",42.6776693,-76.6990172,"establishment","Cayuga Lake, New York, USA","establishment,natural_feature","OK",115
+"117",NA,NA,NA,NA,NA,"ZERO_RESULTS",116
+"118",34.4208321,-119.6982057,"administrative_area_level_2","Santa Barbara County, CA, USA","administrative_area_level_2,political","OK",117
+"119",38.5550719,-122.574452,"route","Diamond Mountain Rd, Calistoga, CA 94515, USA","route","OK",118
+"120",45.4662056,9.1906947,"route","Via Tommaso Marino, 20121 Milano MI, Italy","route","OK",119
+"121",39.3076744,-123.7994591,"locality","Mendocino, CA, USA","locality,political","OK",120
+"122",NA,NA,NA,NA,NA,"ZERO_RESULTS",121
+"123",41.59491,-4.575127,"bar","Carretera de Villabañez Km1, 47320 Tudela de Duero, Valladolid, Spain","bar,establishment,food,point_of_interest","OK",122
+"124",NA,NA,NA,NA,NA,"ZERO_RESULTS",123
+"125",-34.9062557,138.8397403,"administrative_area_level_2","Adelaide Hills, SA, Australia","administrative_area_level_2,political","OK",124
+"126",38.3229698,-122.5749837,"establishment","Sonoma Mountain, California 94954, USA","establishment,natural_feature","OK",125
+"127",38.3488921,-120.7740931,"administrative_area_level_2","Amador County, CA, USA","administrative_area_level_2,political","OK",126
+"128",38.5052429,-122.4703868,"locality","St Helena, CA 94574, USA","locality,political","OK",127
+"129",38.9600424,-121.0467824,"route","Cole Ranch Rd, Auburn, CA 95602, USA","route","OK",128
+"130",-32.8896247,-68.8526867,"administrative_area_level_1","Mendoza Province, Argentina","administrative_area_level_1,political","OK",129
+"131",34.4208305,-119.6981901,"locality","Santa Barbara, CA, USA","locality,political","OK",130
+"132",NA,NA,NA,NA,NA,"ZERO_RESULTS",131
+"133",45.7623333,11.690976,"administrative_area_level_1","Veneto, Italy","administrative_area_level_1,political","OK",132
+"134",47.9666667,16.6666667,"establishment","莱塔山2453, Austria","establishment,natural_feature","OK",133
+"135",NA,NA,NA,NA,NA,"ZERO_RESULTS",134
+"136",36.3931562,25.4615092,"establishment","Santorini, Greece","establishment,natural_feature","OK",135
+"137",-33.5806991,-69.1971443,"establishment","Tunuyán, Mendoza Province, Argentina","establishment,point_of_interest","OK",136
+"138",44.8175587,8.7046627,"colloquial_area","Montferrat, Italy","colloquial_area,political","OK",137
+"139",47.9271368,14.080665,"locality","4565 Inzersdorf im Kremstal, Austria","locality,political","OK",138
+"140",37.5134853,-77.4707131,"route","Dundee Ave, Richmond, VA 23225, USA","route","OK",139
+"141",-33.0764292,-68.8868944,"locality","Perdriel, Mendoza, Argentina","locality,political","OK",140
+"142",35.1443363,-120.543623,"establishment","Arroyo Grande Valley, California 93420, USA","establishment,natural_feature","OK",141
+"143",41.265391,0.9050659,"locality","43360 Cornudella de Montsant, Tarragona, Spain","locality,political","OK",142
+"144",44.8195931,-0.6007912,"route","Square Saint-Estèphe, 33000 Bordeaux, France","route","OK",143
+"145",NA,NA,NA,NA,NA,"ZERO_RESULTS",144
+"146",NA,NA,NA,NA,NA,"ZERO_RESULTS",145
+"147",-34.5333333,138.95,"establishment","Barossa Valley, Tanunda SA 5352, Australia","establishment,natural_feature","OK",146
+"148",-33.3728036,-69.1475583,"locality","Tupungato, Mendoza, Argentina","locality,political","OK",147
+"149",44.489937,7.9768123,"locality","12060 Belvedere Langhe CN, Italy","locality,political","OK",148
+"150",44.7792692,7.9384998,"locality","12040 Monteu Roero CN, Italy","locality,political","OK",149
+"151",NA,NA,NA,NA,NA,"ZERO_RESULTS",150
+"152",39.5500194,-123.438353,"administrative_area_level_2","Mendocino County, CA, USA","administrative_area_level_2,political","OK",151
+"153",45.8011607,21.5119138,"locality","Recaș, Romania","locality,political","OK",152
+"154",47.0831185,4.9145067,"establishment","15 Place de la Mairie, 21700 Corgoloin, France","establishment,food,point_of_interest","OK",153
+"155",-39.1089867,176.7416374,"administrative_area_level_1","Hawke's Bay, New Zealand","administrative_area_level_1,political","OK",154
+"156",45.896952,11.989227,"establishment","Via Col de Rove, 2, 31049 Valdobbiadene TV, Italy","establishment,food,point_of_interest","OK",155
+"157",-34.986051,-71.2527754,"route","Chile, Curicó, VII Región, Chile","route","OK",156
+"158",45.8908744,12.3032717,"establishment","Via Antonio Carpenè, 1, 31015 Conegliano TV, Italy","establishment,food,point_of_interest","OK",157
+"159",-33.3707204,-70.7123907,"route","Limarí, Quilicura, Región Metropolitana, Chile","route","OK",158
+"160",-33.5492473,-71.593406,"route","Colchagua, Cartagena, Región de Valparaíso, Chile","route","OK",159
+"161",43.5912356,3.2583626,"colloquial_area","Languedoc-Roussillon, France","colloquial_area,political","OK",160
+"162",43.393751,6.040819,"establishment","Place du General de Gaulle, 83170 La Celle en Provence, France","establishment,point_of_interest","OK",161
+"163",42.3252871,1.6055202,"locality","25722 Cava, Lleida, Spain","locality,political","OK",162
+"164",-36.055556,146.4625,"locality","Rutherglen VIC 3685, Australia","locality,political","OK",163
+"165",50.1891679,8.1104164,"administrative_area_level_3","Rheingau-Taunus-Kreis, Germany","administrative_area_level_3,political","OK",164
+"166",-34.5333333,138.95,"establishment","Barossa Valley, Tanunda SA 5352, Australia","establishment,natural_feature","OK",165
+"167",48.1172148,21.4089015,"locality","Tokaj, 3910 Hungary","locality,political","OK",166
+"168",46.9447821,4.7539203,"establishment","10 place du Pasquier de la Fontaine, 21190 Puligny-Montrachet, France","establishment,food,lodging,point_of_interest,restaurant","OK",167
+"169",-36.916667,144.7,"locality","Heathcote VIC 3523, Australia","locality,political","OK",168
+"170",47.1748181,4.955179,"establishment","Rue de la Montagne, 21640 Vougeot, France","establishment,point_of_interest","OK",169
+"171",46.937992,4.729561,"locality","21190 Chassagne-Montrachet, France","locality,political","OK",170
+"172",NA,NA,NA,NA,NA,"ZERO_RESULTS",171
+"173",-33.8335699,138.61,"establishment","Clare Valley, Clare SA 5453, Australia","establishment,natural_feature","OK",172
+"174",45.5721253,11.9053548,"route","Via dei Custoza, 35010 Santa Giustina in Colle PD, Italy","route","OK",173
+"175",41.9067218,12.4914869,"route","Via Friuli, 00187 Roma RM, Italy","route","OK",174
+"176",45.4544384,11.2358335,"administrative_area_level_3","37038 Soave, VR, Italy","administrative_area_level_3,political","OK",175
+"177",NA,NA,NA,NA,NA,"ZERO_RESULTS",176
+"178",37.1235743,25.238722,"locality","Naousa 844 01, Greece","locality,political","OK",177
+"179",32.0956281,-116.572572,"locality","Guadalupe, Baja California, Mexico","locality,political","OK",178
+"180",41.9172395,12.5057822,"route","Piazza Trento, 00198 Roma RM, Italy","route","OK",179
+"181",45.3222482,11.2748095,"route","Via Valle, 37041 Albaredo D'adige VR, Italy","route","OK",180
+"182",38.4591012,-122.4225638,"locality","Rutherford, CA, USA","locality,political","OK",181
+"183",-33.4871761,-70.6871443,"route","Central, Pedro Aguirre Cerda, Región Metropolitana, Chile","route","OK",182
+"184",-33.3918702,-70.6543208,"route","Lontué, Recoleta, Región Metropolitana, Chile","route","OK",183
+"185",35.2103449,-80.856324,"establishment","310 East Blvd Suite 4, Charlotte, NC 28203, USA","establishment,point_of_interest,travel_agency","OK",184
+"186",45.877286,12.034054,"establishment","Via Rovede, 27, 31012 Vidor TV, Italy","establishment,food,point_of_interest","OK",185
+"187",45.8973493,11.9906944,"establishment","Via G. Garibaldi, 147, 31049 Valdobbiadene TV, Italy","establishment,food,point_of_interest","OK",186
+"188",44.820387,-0.5996032,"route","Passage des Graves, 33000 Bordeaux, France","route","OK",187
+"189",46.0366351,-118.4042902,"route","Valley St, Walla Walla, WA 99362, USA","route","OK",188
+"190",48.3845561,16.5149128,"locality","2120 Wolkersdorf, Austria","locality,political","OK",189
+"191",40.7127753,-74.0059728,"locality","New York, NY, USA","locality,political","OK",190
+"192",NA,NA,NA,NA,NA,"ZERO_RESULTS",191
+"193",40.9713215,-72.6261244,"neighborhood","North Fork, Northville, NY 11901, USA","neighborhood,political","OK",192
+"194",46.7593986,-119.6824892,"route","Wahluke Rd SW, Mattawa, WA 99349, USA","route","OK",193
+"195",NA,NA,NA,NA,NA,"ZERO_RESULTS",194
+"196",46.3285409,-120.0082522,"establishment","905 Yakima Valley Hwy, Sunnyside, WA 98944, USA","establishment,food,point_of_interest,restaurant","OK",195
+"197",48.0024759,16.2480941,"establishment","Leesdorfer Hauptstraße 35, 2500 Baden, Austria","establishment,point_of_interest,school","OK",196
+"198",44.6880915,8.8037472,"locality","15066 Gavi AL, Italy","locality,political","OK",197
+"199",NA,NA,NA,NA,NA,"ZERO_RESULTS",198
+"200",48.108077,15.8049558,"administrative_area_level_1","Lower Austria, Austria","administrative_area_level_1,political","OK",199
+"201",40.789142,-73.134961,"establishment","Long Island, New York, USA","establishment,natural_feature","OK",200
+"202",48.4333333,15.8,"establishment","Wagram, 3481, Austria","establishment,natural_feature","OK",201
+"203",NA,NA,NA,NA,NA,"ZERO_RESULTS",202
+"204",45.5883797,10.0795033,"locality","25050 Paderno Franciacorta BS, Italy","locality,political","OK",203
+"205",46.978225,4.768746,"locality","21190 Meursault, France","locality,political","OK",204
+"206",43.2549988,-79.0772616,"locality","Niagara-on-the-Lake, ON, Canada","locality,political","OK",205
+"207",38.2554723,-122.3349422,"establishment","4048 Sonoma Hwy, Napa, CA 94559, USA","establishment,food,health,lodging,point_of_interest,restaurant,spa","OK",206
+"208",45.3494774,-123.0733977,"route","NE Ribbon Ridge Rd, Newberg, OR 97132, USA","route","OK",207
+"209",45.5042434,10.9343997,"establishment","Via Casette, 4, 37024 Arbizzano-Santa Maria VR, Italy","establishment,food,point_of_interest","OK",208
+"210",47.185496,4.952888,"locality","21220 Chambolle-Musigny, France","locality,political","OK",209
+"211",44.8206164,-0.6004558,"route","Chemin Pomerol, 33000 Bordeaux, France","route","OK",210
+"212",40.1208752,9.0128926,"establishment","Sardinia, Italy","establishment,natural_feature","OK",211
+"213",46.2979123,-119.4408562,"establishment","Red Mountain, Washington 99320, USA","establishment,natural_feature","OK",212
+"214",NA,NA,NA,NA,NA,"ZERO_RESULTS",213
+"215",34.635,-120.3152777,"establishment","Santa Rita Hills, California 93436, USA","establishment,natural_feature","OK",214
+"216",NA,NA,NA,NA,NA,"ZERO_RESULTS",215
+"217",NA,NA,NA,NA,NA,"ZERO_RESULTS",216
+"218",38.7426376,-120.4357631,"administrative_area_level_2","El Dorado County, CA, USA","administrative_area_level_2,political","OK",217
+"219",38.2672144,-122.1130027,"route","Suisun Valley Rd, Fairfield, CA 94534, USA","route","OK",218
+"220",43.9351691,6.0679194,"administrative_area_level_1","Provence-Alpes-Côte d'Azur, France","administrative_area_level_1,political","OK",219
+"221",38.1341477,-121.2722194,"locality","Lodi, CA, USA","locality,political","OK",220
+"222",NA,NA,NA,NA,NA,"ZERO_RESULTS",221
+"223",41.8965046,12.5543803,"route","Viale della Venezia Giulia, 00177 Roma RM, Italy","route","OK",222
+"224",46.6020711,-120.5058987,"locality","Yakima, WA, USA","locality,political","OK",223
+"225",36.3136201,-121.3541631,"administrative_area_level_2","Monterey County, CA, USA","administrative_area_level_2,political","OK",224
+"226",38.4274315,-122.3943299,"colloquial_area","Napa Valley, CA, USA","colloquial_area,political","OK",225
+"227",46.833678,4.721637,"locality","71640 Mercurey, France","locality,political","OK",226
+"228",38.1960477,-120.6805037,"administrative_area_level_2","Calaveras County, CA, USA","administrative_area_level_2,political","OK",227
+"229",45.3762277,-123.037326,"establishment","Chehalem Mountains, Oregon 97123, USA","establishment,natural_feature","OK",228
+"230",46.1331878,-119.8678139,"establishment","Horse Heaven Hills, Washington 99350, USA","establishment,natural_feature","OK",229
+"231",43.216505,-123.3417381,"locality","Roseburg, OR, USA","locality,political","OK",230
+"232",46.6480894,11.5842165,"establishment","Leitach Coste, 50, 39043 Chiusa BZ, Italy","establishment,food,point_of_interest","OK",231
+"233",34.6354195,-120.1479918,"route","Ballard Canyon Rd, Solvang, CA 93463, USA","route","OK",232
+"234",38.2529705,-122.1621917,"locality","Green Valley, CA 94534, USA","locality,political","OK",233
+"235",43.599649,5.458553,"establishment","195 Route de Couteron, 13100 Aix-en-Provence, France","establishment,food,point_of_interest","OK",234
+"236",43.5319728,5.6127511,"establishment","Montagne Sainte-Victoire, 13126 Vauvenargues, France","establishment,natural_feature","OK",235
+"237",38.2692123,-119.574224,"establishment","Sierra Nevada, California, USA","establishment,natural_feature","OK",236
+"238",38.7646021,-121.9017954,"administrative_area_level_2","Yolo County, CA, USA","administrative_area_level_2,political","OK",237
+"239",44.684189,8.0049344,"establishment","Corso Barolo, 14, 12051 Alba CN, Italy","establishment,food,point_of_interest","OK",238
+"240",44.8764951,-0.5735608,"establishment","10 Rue René Cassin, 33049 Bordeaux, France","establishment,point_of_interest","OK",239
+"241",43.84982,4.3929627,"route","Chemin du Rhône, 30000 Nîmes, France","route","OK",240
+"242",44.837789,-0.57918,"locality","Bordeaux, France","locality,political","OK",241
+"243",47.7510741,-120.7401385,"administrative_area_level_1","Washington, USA","administrative_area_level_1,political","OK",242
+"244",47.4523058,-120.822886,"establishment","Columbia River","establishment,natural_feature","OK",243
+"245",48.5102792,15.4535824,"establishment","Kamp, Austria","establishment,natural_feature","OK",244
+"246",47.3593442,14.4699827,"administrative_area_level_1","Styria, Austria","administrative_area_level_1,political","OK",245
+"247",47.1540485,14.7383207,"locality","8741 Weißkirchen in der Steiermark, Austria","locality,political","OK",246
+"248",47.23037,1.551791,"route","Rhône, 36600 Fontguenand, France","route","OK",247
+"249",35.240117,24.8092691,"administrative_area_level_1","Crete Region, Greece","administrative_area_level_1,political","OK",248
+"250",38.35833,-122.33389,"locality","Oak Knoll, CA 94558, USA","locality,political","OK",249
+"251",42.4401246,-122.9261546,"establishment","Rogue Valley, Oregon 97502, USA","establishment,natural_feature","OK",250
+"252",38.291859,-122.4580356,"locality","Sonoma, CA 95476, USA","locality,political","OK",251
+"253",41.33392,-8.031015,"establishment","4890 Codeçoso, Portugal","establishment,food,point_of_interest","OK",252
+"254",45.45273,11.2549,"establishment","via Centro,14, Fittà, 37038 Soave VR, Italy","establishment,food,point_of_interest","OK",253
+"255",45.915836,12.166491,"establishment","Piazza Liberta', 7, 31053 Pieve di Soligo TV, Italy","establishment,point_of_interest","OK",254
+"256",45.0522366,7.5153885,"administrative_area_level_1","Piedmont, Italy","administrative_area_level_1,political","OK",255
+"257",44.0682019,-114.7420408,"administrative_area_level_1","Idaho, USA","administrative_area_level_1,political","OK",256
+"258",44.0682019,-114.7420408,"administrative_area_level_1","Idaho, USA","administrative_area_level_1,political","OK",257
+"259",NA,NA,NA,NA,NA,"ZERO_RESULTS",258
+"260",-37.6586558,145.3739369,"establishment","19 Bell St, Yarra Glen VIC 3775, Australia","establishment,lodging,point_of_interest","OK",259
+"261",-33.2920093,117.3196083,"route","Great Southern Hwy, Wagin WA 6315, Australia","route","OK",260
+"262",38.1145286,-121.5741027,"establishment","Mokelumne River, California, USA","establishment,natural_feature","OK",261
+"263",34.4333856,-119.8545716,"route","Los Carneros Road, Goleta, CA 93117, USA","route","OK",262
+"264",38.3689984,-122.4120862,"route","Mt Veeder Rd, Napa, CA 94558, USA","route","OK",263
+"265",NA,NA,NA,NA,NA,"ZERO_RESULTS",264
+"266",39.4765073,-0.3974631,"establishment","Carrer de Góngora, 1, 46015 València, Valencia, Spain","establishment,food,point_of_interest,restaurant","OK",265
+"267",43.2750634,11.98512,"locality","52044 Cortona, Province of Arezzo, Italy","locality,political","OK",266
+"268",45.0522366,7.5153885,"administrative_area_level_1","Piedmont, Italy","administrative_area_level_1,political","OK",267
+"269",44.0839717,10.3934847,"route","Via Centrale, 55020 Sassi LU, Italy","route","OK",268
+"270",37.680208,-121.7918985,"establishment","Livermore Valley, Livermore, CA 94551, USA","establishment,natural_feature","OK",269
+"271",-41.2190932,175.4600651,"locality","Martinborough, New Zealand","locality,political","OK",270
+"272",-44.9566315,169.3988451,"colloquial_area","Central Otago, New Zealand","colloquial_area,political","OK",271
+"273",-33.591622,-69.025249,"establishment","Tunuyán, Mendoza Province, Argentina","establishment,local_government_office,point_of_interest","OK",272
+"274",38.7222524,-9.1393366,"locality","Lisbon, Portugal","locality,political","OK",273
+"275",46.3068839,4.828731,"locality","71000 Mâcon, France","locality,political","OK",274
+"276",31.9685988,-99.9018131,"administrative_area_level_1","Texas, USA","administrative_area_level_1,political","OK",275
+"277",46.771428,4.696703,"route","Rue de la Côté Chalonnaise, 71640 Jambles, France","route","OK",276
+"278",47.048887,4.86904,"locality","21200 Chorey-les-Beaune, France","locality,political","OK",277
+"279",NA,NA,NA,NA,NA,"ZERO_RESULTS",278
+"280",38.4874361,-8.9043629,"neighborhood","Tróia Peninsula, Portugal","neighborhood,political","OK",279
+"281",NA,NA,NA,NA,NA,"ZERO_RESULTS",280
+"282",46.2796745,4.784857,"route","Rue Saint-Véran, 71000 Mâcon, France","route","OK",281
+"283",44.7232618,8.0835572,"locality","12050 Barbaresco CN, Italy","locality,political","OK",282
+"284",-38.5927961,145.5997422,"establishment","36 Turner St, Wonthaggi VIC 3995, Australia","establishment,point_of_interest","OK",283
+"285",33.4739175,-117.1405868,"establishment","Temecula Valley, Temecula, CA 92592, USA","establishment,natural_feature","OK",284
+"286",-41.4545196,145.9706647,"administrative_area_level_1","Tasmania, Australia","administrative_area_level_1,political","OK",285
+"287",NA,NA,NA,NA,NA,"ZERO_RESULTS",286
+"288",43.4210111,11.3596756,"bar","Località Dievole, 6 (fraz. Vagliagli), 53019 Castelnuovo Berardenga SI, Italy","bar,establishment,food,liquor_store,lodging,point_of_interest,restaurant,store","OK",287
+"289",41.9365557,12.515977,"bar","Via Filippo Marchetti, 13, 00199 Roma RM, Italy","bar,establishment,point_of_interest","OK",288
+"290",44.8604934,-0.569448,"route","Cours du Médoc, 33300 Bordeaux, France","route","OK",289
+"291",45.1182874,-0.7309917,"route","Avenue du Haut Médoc, 33460 Cussac-Fort-Médoc, France","route","OK",290
+"292",44.820179,-0.600083,"route","Passage Fronsac, 33000 Bordeaux, France","route","OK",291
+"293",44.860684,-0.5650222,"route","Allée Margaux, 33300 Bordeaux, France","route","OK",292
+"294",-38.2854053,145.093449,"administrative_area_level_2","Mornington Peninsula, VIC, Australia","administrative_area_level_2,political","OK",293
+"295",NA,NA,NA,NA,NA,"ZERO_RESULTS",294
+"296",41.59491,-4.575127,"bar","Carretera de Villabañez Km1, 47320 Tudela de Duero, Valladolid, Spain","bar,establishment,food,point_of_interest","OK",295
+"297",48.7668872,12.3761626,"political","Franken, 84082 Laberweinting, Germany","political,sublocality,sublocality_level_1","OK",296
+"298",39.33667,-123.3,"locality","Ridge, CA 95490, USA","locality,political","OK",297
+"299",42.967171,11.437808,"establishment","Via Giuncheti, 53024 Montalcino SI, Italy","establishment,food,liquor_store,point_of_interest,store","OK",298
+"300",49.034744,1.598236,"route","Rue de Gascogne, 78840 Freneuse, France","route","OK",299
+"301",44.32943,1.412179,"colloquial_area","Le Bout de la Côté, 46170 Pern, France","colloquial_area,political","OK",300
+"302",44.6800114,7.9969614,"route","Corso Barolo, 12051 Alba CN, Italy","route","OK",301
+"303",46.1178204,4.7451317,"route","Rue de la Dune Rose, 69220 Saint-Jean-d'Ardières, France","route","OK",302
+"304",47.270302,4.988667,"locality","21160 Marsannay-la-Côte, France","locality,political","OK",303
+"305",47.225962,4.968739,"locality","21220 Gevrey-Chambertin, France","locality,political","OK",304
+"306",47.02603,4.840004,"locality","21200 Beaune, France","locality,political","OK",305
+"307",41.1273397,14.7816333,"establishment","Via Traiano, 3, 82100 Benevento BN, Italy","establishment,point_of_interest,university","OK",306
+"308",50.4597204,6.9657588,"establishment","Ahr, Germany","establishment,natural_feature","OK",307
+"309",41.2379783,0.7913227,"administrative_area_level_3","El Priorat, Tarragona, Spain","administrative_area_level_3,political","OK",308
+"310",43.2043544,10.612672,"establishment","57022 Bolgheri, Province of Livorno, Italy","establishment,food,point_of_interest","OK",309
+"311",43.3270136,2.5281994,"locality","11160 Caunes-Minervois, France","locality,political","OK",310
+"312",29.664215,-98.1443989,"route","High Plains, New Braunfels, TX 78130, USA","route","OK",311
+"313",49.7470602,7.4749495,"establishment","Nahe, Germany","establishment,natural_feature","OK",312
+"314",-33.6509809,-69.1558647,"locality","Vista Flores, Mendoza, Argentina","locality,political","OK",313
+"315",NA,NA,NA,NA,NA,"ZERO_RESULTS",314
+"316",-31.9512689,115.8659972,"establishment","1/1 Nash St, Perth WA 6000, Australia","establishment,point_of_interest","OK",315
+"317",38.5348836,-120.792458,"neighborhood","Shenandoah Valley, CA, USA","neighborhood,political","OK",316
+"318",45.127331,-0.662843,"establishment","11 Cours Vauban, 33390 Blaye, France","establishment,food,point_of_interest","OK",317
+"319",38.4742922,-1.3254823,"route","Av. de Levante, 30520 Jumilla, Murcia, Spain","route","OK",318
+"320",45.652961,8.2740788,"route","Via della Costa, 13868 Sostegno BI, Italy","route","OK",319
+"321",38.906269,-123.231222,"establishment","25701 CA-128, Yorkville, CA 95494, USA","establishment,food,point_of_interest","OK",320
+"322",41.2510217,1.5015009,"administrative_area_level_3","Baix Penedès, Tarragona, Spain","administrative_area_level_3,political","OK",321
+"323",NA,NA,NA,NA,NA,"ZERO_RESULTS",322
+"324",45.4627426,10.6166791,"locality","25019 Santa Maria di Lugana BS, Italy","locality,political","OK",323
+"325",NA,NA,NA,NA,NA,"ZERO_RESULTS",324
+"326",45.5443968,10.7254272,"establishment","Via Santa Cristina, 1, 37011 Bardolino VR, Italy","establishment,food,point_of_interest","OK",325
+"327",NA,NA,NA,NA,NA,"ZERO_RESULTS",326
+"328",46.068752,12.3314323,"establishment","Piave, Italy","establishment,natural_feature","OK",327
+"329",45.1638854,25.4474606,"locality","Dealu Mare, Romania","locality,political","OK",328
+"330",41.1579438,-8.6291053,"locality","Porto, Portugal","locality,political","OK",329
+"331",43.9018159,1.896506,"locality","81600 Gaillac, France","locality,political","OK",330
+"332",47.442767,2.8143545,"route","Rue du Val de Loire, 18240 Savigny-en-Sancerre, France","route","OK",331
+"333",45.33813,4.443844,"colloquial_area","Montravel, 42660 Saint-Genest-Malifaux, France","colloquial_area,political","OK",332
+"334",47.132235,2.156712,"locality","18120 Quincy, France","locality,political","OK",333
+"335",47.2972963,2.9586536,"establishment","Château du Nozet, Le Château du Nozet, 58150 Pouilly-sur-Loire, France","establishment,food,point_of_interest","OK",334
+"336",-37.28746,140.8553875,"locality","Coonawarra SA 5263, Australia","locality,political","OK",335
+"337",34.4206377,-119.6994965,"establishment","30 El Paseo, Santa Barbara, CA 93101, USA","establishment,food,point_of_interest","OK",336
+"338",NA,NA,NA,NA,NA,"ZERO_RESULTS",337
+"339",NA,NA,NA,NA,NA,"ZERO_RESULTS",338
+"340",45.9391338,-118.3974502,"route","Walla Walla Valley Rlwy, Milton-Freewater, OR 97862, USA","route","OK",339
+"341",NA,NA,NA,NA,NA,"ZERO_RESULTS",340
+"342",43.570642,3.877218,"establishment","Domaine de Manse Avenue Paysagère, CS 70026 Maurin, 34973 Lattes, France","establishment,point_of_interest","OK",341
+"343",41.8962899,12.4826181,"route","Piazza Venezia, Roma RM, Italy","route","OK",342
+"344",44.793529,0.492161,"locality","24240 Monbazillac, France","locality,political","OK",343
+"345",NA,NA,NA,NA,NA,"ZERO_RESULTS",344
+"346",-33.375584,18.3860652,"locality","Darling, 7345, South Africa","locality,political","OK",345
+"347",47.2142438,-0.0706045,"establishment","15 Rue de l'Église, 49400 Chacé, France","establishment,food,point_of_interest","OK",346
+"348",43.1735657,11.9332981,"establishment","Via Colonica, 1, 53045 Montepulciano SI, Italy","establishment,food,liquor_store,point_of_interest,store","OK",347
+"349",43.6366479,0.4502368,"administrative_area_level_2","Gers, France","administrative_area_level_2,political","OK",348
+"350",46.718922,5.52781,"establishment","53 Rue de Montbourgeau, 39570 L'Étoile, France","establishment,food,point_of_interest","OK",349
+"351",43.6093896,3.877675,"establishment","3 Rue de l'Argenterie, 34000 Montpellier, France","establishment,food,liquor_store,point_of_interest,store","OK",350
+"352",42.6918497,-76.920192,"establishment","Seneca Lake, New York, USA","establishment,natural_feature","OK",351
+"353",46.6536279,-120.6541983,"route","Naches Heights Rd, Yakima, WA 98908, USA","route","OK",352
+"354",-35.675147,-71.542969,"country","Chile","country,political","OK",353
+"355",40.6430766,15.9699878,"administrative_area_level_1","Basilicata, Italy","administrative_area_level_1,political","OK",354
+"356",42.403046,-73.8886727,"establishment","Hudson River, United States","establishment,natural_feature","OK",355
+"357",46.8885229,15.8936247,"administrative_area_level_2","Südoststeiermark, Austria","administrative_area_level_2,political","OK",356
+"358",37.9386365,22.9322383,"locality","Corinth 201 00, Greece","locality,political","OK",357
+"359",40.3694997,23.287085,"administrative_area_level_3","Halkidiki, Greece","administrative_area_level_3,political","OK",358
+"360",38.2975381,-122.286865,"locality","Napa, CA, USA","locality,political","OK",359
+"361",46.996529,4.854326,"establishment","Rue du Pré Neuf, 21200 Montagny-lès-Beaune, France","establishment,food,point_of_interest","OK",360
+"362",41.0013282,28.9094757,"establishment","Telsiz Mahallesi, 85/9. Sk., 34020 Zeytinburnu/İstanbul, Turkey","establishment,mosque,place_of_worship,point_of_interest","OK",361
+"363",46.2890296,4.7403944,"route","À Pouilly, 71960 Fuissé, France","route","OK",362
+"364",-36.499698,145.3882795,"route","Goulburn Valley Hwy, Victoria, Australia","route","OK",363
+"365",49.4822116,7.8609481,"colloquial_area","Palatinate, Germany","colloquial_area,political","OK",364
+"366",38.4035096,-122.6412853,"route","Bennett Valley Rd, Santa Rosa, CA, USA","route","OK",365
+"367",35.5812742,-120.7849327,"route","Willow Creek Rd, Paso Robles, CA 93446, USA","route","OK",366
+"368",45.0522366,7.5153885,"administrative_area_level_1","Piedmont, Italy","administrative_area_level_1,political","OK",367
+"369",44.892394,-0.1646876,"establishment","33330 Saint-Émilion, France","establishment,food,point_of_interest","OK",368
+"370",-33.8020653,19.8875431,"locality","Robertson, South Africa","locality,political","OK",369
+"371",40.0124813,-3.0214712,"route","Camino Central Eléctrica, 16400 Tarancón, Cuenca, Spain","route","OK",370
+"372",37.8534093,-121.9017954,"administrative_area_level_2","Contra Costa County, CA, USA","administrative_area_level_2,political","OK",371
+"373",33.239637,35.653953,"locality","Dan, Israel","locality,political","OK",372
+"374",44.3148443,-85.6023643,"administrative_area_level_1","Michigan, USA","administrative_area_level_1,political","OK",373
+"375",NA,NA,NA,NA,NA,"ZERO_RESULTS",374
+"376",38.3901848,-122.313842,"establishment","5350 Silverado Trail, Napa, CA 94558, USA","establishment,food,point_of_interest","OK",375
+"377",NA,NA,NA,NA,NA,"ZERO_RESULTS",376
+"378",38.5935173,-120.6604855,"locality","Fair Play, CA 95684, USA","locality,political","OK",377
+"379",NA,NA,NA,NA,NA,"ZERO_RESULTS",378
+"380",36.6850064,-6.1260744,"locality","Jerez, Cádiz, Spain","locality,political","OK",379
+"381",-42.0851991,173.261074,"locality","Awatere Valley 7274, New Zealand","locality,political","OK",380
+"382",48.3023867,16.409877,"establishment","Stammersdorfer Str. 31, 1210 Wien, Austria","establishment,food,point_of_interest","OK",381
+"383",43.840098,1.389654,"locality","31620 Fronton, France","locality,political","OK",382
+"384",44.853806,0.483392,"locality","24100 Bergerac, France","locality,political","OK",383
+"385",48.3896089,15.4748897,"establishment","Wachau, 3602, Austria","establishment,natural_feature","OK",384
+"386",40.4233642,17.9531836,"establishment","Penisola Salentina, Italy","establishment,natural_feature","OK",385
+"387",44.855275,-0.570292,"route","Rue Rose, 33300 Bordeaux, France","route","OK",386
+"388",41.2033216,-77.1945247,"administrative_area_level_1","Pennsylvania, USA","administrative_area_level_1,political","OK",387
+"389",43.743887,4.795495,"locality","13520 Les Baux-de-Provence, France","locality,political","OK",388
+"390",42.7976791,-122.4332992,"colloquial_area","Southern Oregon, OR, USA","colloquial_area,political","OK",389
+"391",-33.3306832,18.7125791,"administrative_area_level_3","Malmesbury, South Africa","administrative_area_level_3,political","OK",390
+"392",44.9622231,-85.485356,"locality","Old Mission, MI 49686, USA","locality,political","OK",391
+"393",39.9375531,-7.8637747,"neighborhood","Dão, 6160 Oleiros, Portugal","neighborhood,political","OK",392
+"394",46.5306691,11.2519441,"establishment","Via Silberleiten, 7, 39018 Terlano BZ, Italy","establishment,food,point_of_interest","OK",393
+"395",38.794346,-121.9552466,"establishment","Dunnigan Hills, California 95627, USA","establishment,natural_feature","OK",394
+"396",43.136418,5.754186,"locality","Bandol, France","locality,political","OK",395
+"397",38.2971707,-122.2864459,"establishment","820 Randolph St, Napa, CA 94559, USA","establishment,food,point_of_interest","OK",396
+"398",48.4333333,15.8,"establishment","Wagram, 3481, Austria","establishment,natural_feature","OK",397
+"399",44.0574025,4.828508,"establishment","20 Avenue des Oliviers, 84230 Châteauneuf-du-Pape, France","establishment,food,point_of_interest","OK",398
+"400",47.137985,4.9503199,"locality","21700 Nuits-Saint-Georges, France","locality,political","OK",399
+"401",NA,NA,NA,NA,NA,"ZERO_RESULTS",400
+"402",42.9223676,12.6418492,"establishment","Località Torre di Montefalco, 06036 Montefalco PG, Italy","establishment,food,point_of_interest","OK",401
+"403",-35.2808267,-71.2599507,"locality","Río Claro, Maule Region, Chile","locality,political","OK",402
+"404",45.8700399,18.453201,"locality","Villány, 7773 Hungary","locality,political","OK",403
+"405",45.4589617,9.217585,"route","Viale Umbria, Milano MI, Italy","route","OK",404
+"406",-34.1832749,-70.7476611,"route","Cachapoal, Rancagua, VI Región, Chile","route","OK",405
+"407",38.2682196,15.6506461,"premise","Faro Capo Peloro, Località Torre Faro, 98164 Torre Faro ME, Italy","premise","OK",406
+"408",46.212457,4.719626,"locality","69840 Chénas, France","locality,political","OK",407
+"409",43.287723,-0.390892,"locality","64110 Jurançon, France","locality,political","OK",408
+"410",47.260135,-0.080893,"locality","49400 Saumur, France","locality,political","OK",409
+"411",46.2226645,24.1098947,"locality","Jidvei, Romania","locality,political","OK",410
+"412",41.4919653,2.2940817,"locality","08328 Alella DO, Barcelona, Spain","locality,political","OK",411
+"413",NA,NA,NA,NA,NA,"ZERO_RESULTS",412
+"414",40.976111,16.406111,"establishment","Murgia, 70037 Ruvo di Puglia, Metropolitan City of Bari, Italy","establishment,natural_feature","OK",413
+"415",43.2322828,10.6000578,"establishment","Loc. Le Capanne, 27, 57022 Bolgheri LI, Italy","establishment,food,point_of_interest,store","OK",414
+"416",44.8436191,-0.5748527,"establishment","1 Cours du 30 Juillet, 33000 Bordeaux, France","establishment,point_of_interest","OK",415
+"417",44.8603295,-0.565671,"route","Impasse Saint-Julien, 33300 Bordeaux, France","route","OK",416
+"418",44.8392728,-0.6018928,"route","Rue de Pauillac, 33200 Bordeaux, France","route","OK",417
+"419",38.4366996,-122.402785,"locality","Oakville, CA 94558, USA","locality,political","OK",418
+"420",44.960546,-0.2085963,"route","Champs de Lalande, 33500 Lalande-de-Pomerol, France","route","OK",419
+"421",NA,NA,NA,NA,NA,"ZERO_RESULTS",420
+"422",44.632311,-0.316283,"establishment","D10 Route de Langon, 33410 Cadillac, France","establishment,liquor_store,museum,point_of_interest,store","OK",421
+"423",-32.9846649,-68.7884399,"locality","Maipú, Mendoza Province, Argentina","locality,political","OK",422
+"424",47.5384746,-0.435333,"route","Touraine, 49140 Villevêque, France","route","OK",423
+"425",37.09024,-95.712891,"country","United States","country,political","OK",424
+"426",38.9687211,-77.7355496,"locality","Middleburg, VA 20117, USA","locality,political","OK",425
+"427",47.8946915,2.0388396,"route","Allée de Reuilly, 45430 Chécy, France","route","OK",426
+"428",45.6139525,8.3715171,"locality","13045 Gattinara, Province of Vercelli, Italy","locality,political","OK",427
+"429",-33.955,115.075,"locality","Margaret River WA 6285, Australia","locality,political","OK",428
+"430",-34.5944028,-58.3800404,"clothing_store","Suipacha 1178, C1008AAX CABA, Argentina","clothing_store,establishment,point_of_interest,store","OK",429
+"431",44.8464094,-0.5392778,"route","Boulevard de l'Entre-Deux-Mers, Bordeaux, France","route","OK",430
+"432",42.3134584,-122.9669865,"locality","Jacksonville, OR 97530, USA","locality,political","OK",431
+"433",45.0385608,4.8313012,"route","Rue du Rhône, 07300 Mauves, France","route","OK",432
+"434",48.1270972,15.672287,"establishment","Traisen, Austria","establishment,natural_feature","OK",433
+"435",42.668959,11.104058,"establishment","Maremma Regional Park, Via del Bersagliere, 7/9, 58100 Alberese GR, Italy","establishment,local_government_office,park,point_of_interest","OK",434
+"436",39.5744596,-8.3635416,"political","Bairrada, 2300 Tomar, Portugal","political,sublocality,sublocality_level_1","OK",435
+"437",31.8694325,34.9839119,"route","Negev, Sha'alvim, Israel","route","OK",436
+"438",36.5760883,-120.9876321,"administrative_area_level_2","San Benito County, CA, USA","administrative_area_level_2,political","OK",437
+"439",38.9022048,-9.0397427,"locality","Alverca do Ribatejo, Portugal","locality,political","OK",438
+"440",41.5911589,1.5208624,"administrative_area_level_1","Catalonia, Spain","administrative_area_level_1,political","OK",439
+"441",42.875938,-8.1314663,"locality","15808 Ribeiro, A Coruña, Spain","locality,political","OK",440
+"442",44.85636,-0.488756,"bus_station","33370 Artigues-près-Bordeaux, France","bus_station,establishment,point_of_interest,transit_station","OK",441
+"443",35.3102296,-120.4357631,"administrative_area_level_2","San Luis Obispo County, CA, USA","administrative_area_level_2,political","OK",442
+"444",43.2336764,10.6170139,"locality","57022 Bolgheri, Province of Livorno, Italy","locality,political","OK",443
+"445",38.3414041,-0.4796927,"bar","Marina Deportiva Puerto de Alicante, Muelle Levante, 4, 03001 Alicante, Spain","bar,establishment,food,point_of_interest,restaurant","OK",444
+"446",NA,NA,NA,NA,NA,"ZERO_RESULTS",445
+"447",NA,NA,NA,NA,NA,"ZERO_RESULTS",446
+"448",44.8533003,-0.0436106,"establishment","6 Allée de la République, 33350 Castillon-la-Bataille, France","establishment,liquor_store,point_of_interest,store,travel_agency","OK",447
+"449",43.3049668,3.5402154,"campground","Les Méditerranées - Camping Beach Garden, 1078 Avenue des Campings, 34340 Marseillan, France","campground,establishment,lodging,park,point_of_interest","OK",448
+"450",44.94665,-0.005733,"establishment","Château de Francs, 33570 Francs, France","establishment,food,point_of_interest","OK",449
+"451",NA,NA,NA,NA,NA,"ZERO_RESULTS",450
+"452",46.180983,4.665474,"locality","Chiroubles, France","locality,political","OK",451
+"453",46.245875,4.743208,"locality","71570 Saint-Amour-Bellevue, France","locality,political","OK",452
+"454",42.3465529,-7.8632584,"route","Rúa Ribeira Sacra, Ourense, Spain","route","OK",453
+"455",45.0821226,-86.0733634,"administrative_area_level_2","Leelanau County, MI, USA","administrative_area_level_2,political","OK",454
+"456",NA,NA,NA,NA,NA,"ZERO_RESULTS",455
+"457",NA,NA,NA,NA,NA,"ZERO_RESULTS",456
+"458",NA,NA,NA,NA,NA,"ZERO_RESULTS",457
+"459",43.744633,4.356005,"colloquial_area","Mas des Coteaux, 30510 Générac, France","colloquial_area,political","OK",458
+"460",38.291859,-122.4580356,"locality","Sonoma, CA 95476, USA","locality,political","OK",459
+"461",39.4486999,-7.3703481,"locality","7330-012 Beira, Portugal","locality,political","OK",460
+"462",-35.2962556,139.038277,"locality","Langhorne Creek SA 5255, Australia","locality,political","OK",461
+"463",NA,NA,NA,NA,NA,"ZERO_RESULTS",462
+"464",NA,NA,NA,NA,NA,"ZERO_RESULTS",463
+"465",NA,NA,NA,NA,NA,"ZERO_RESULTS",464
+"466",34.4208305,-119.6981901,"locality","Santa Barbara, CA, USA","locality,political","OK",465
+"467",45.03559,-0.499048,"route","Avenue des Côtes de Bourg, 33710, France","route","OK",466
+"468",44.7313855,8.3218022,"establishment","Str. Nizza-canelli, 99, 14042 Calamandrana AT, Italy","establishment,food,point_of_interest","OK",467
+"469",33.22,35.6225,"locality","Upper Galilee Regional Council, Israel","locality,political","OK",468
+"470",44.8847177,-0.1545992,"establishment","33330 Saint-Émilion, France","establishment,point_of_interest","OK",469
+"471",NA,NA,NA,NA,NA,"ZERO_RESULTS",470
+"472",48.9256884,2.478422,"route","Rue de Bergerac, 93150 Le Blanc-Mesnil, France","route","OK",471
+"473",46.143967,4.6782106,"political","Morgon, 69910 Villié-Morgon, France","political,sublocality,sublocality_level_1","OK",472
+"474",37.136425,-75.9646,"establishment","32383 Lankford Hwy, Cape Charles, VA 23310, USA","establishment,point_of_interest,travel_agency","OK",473
+"475",NA,NA,NA,NA,NA,"ZERO_RESULTS",474
+"476",NA,NA,NA,NA,NA,"ZERO_RESULTS",475
+"477",45.8635541,-122.8143285,"route","Columbia, St Helens, OR 97051, USA","route","OK",476
+"478",45.0735976,-0.7932104,"establishment","21 Avenue de Soulac, 33480 Listrac-Médoc, France","establishment,food,point_of_interest","OK",477
+"479",40.4289764,22.9304174,"locality","Epanomi 575 00, Greece","locality,political","OK",478
+"480",44.9506726,-0.0951753,"establishment","15 Rue de Lincent, 33570 Lussac, France","establishment,food,point_of_interest","OK",479
+"481",44.7940883,8.3488793,"establishment","Via la Serra, 20, 14049 Vaglio Serra AT, Italy","establishment,food,point_of_interest","OK",480
+"482",37.82133,22.660998,"locality","Nemea 205 00, Greece","locality,political","OK",481
+"483",44.952398,6.4840823,"establishment","Rhône","establishment,natural_feature","OK",482
+"484",37.5079472,22.37349,"administrative_area_level_2","Peloponnese, Greece","administrative_area_level_2,political","OK",483
+"485",NA,NA,NA,NA,NA,"ZERO_RESULTS",484
+"486",-33.5486878,-71.5954524,"route","Aconcagua, Cartagena, Región de Valparaíso, Chile","route","OK",485
+"487",45.4214476,11.2490829,"establishment","Via Mattielli, 11, 37038 Soave VR, Italy","establishment,point_of_interest","OK",486
+"488",46.912833,4.696534,"locality","21590 Santenay, France","locality,political","OK",487
+"489",46.945092,4.753296,"locality","21190 Puligny-Montrachet, France","locality,political","OK",488
+"490",44.9842641,8.3076463,"establishment","Cascina Montalbera, 1, 14030 Castagnole Monferrato AT, Italy","establishment,food,point_of_interest","OK",489
+"491",46.1727525,10.0673637,"route","Via Valtellina, 23036 Teglio SO, Italy","route","OK",490
+"492",45.1946975,9.1788856,"route","Via Oltrepò, 27100 Pavia PV, Italy","route","OK",491
+"493",39.1303853,-122.8774692,"route","Red Hill Ln, Upper Lake, CA 95485, USA","route","OK",492
+"494",49.1950982,16.6067304,"colloquial_area","Moravia, 602 00 Brno-Brno-střed, Czechia","colloquial_area,political","OK",493
+"495",41.0745943,1.1401809,"establishment","Spain, Passeig de Jaume I, 24, 43840 Salou, Tarragona, Spain","establishment,food,meal_takeaway,point_of_interest,restaurant","OK",494
+"496",46.151241,14.995463,"country","Slovenia","country,political","OK",495
+"497",45.0853331,-0.7454046,"establishment","25 Route de la Gare, 33480 Moulis-en-Médoc, France","establishment,food,point_of_interest","OK",496
+"498",-34.44,116.05,"locality","Pemberton WA 6260, Australia","locality,political","OK",497
+"499",47.4259675,-0.5518613,"route","Rue des Roses, 49130 Sainte-Gemmes-sur-Loire, France","route","OK",498
+"500",44.8404561,-0.5706749,"establishment","13 Rue des Faussets, 33000 Bordeaux, France","establishment,food,point_of_interest,restaurant","OK",499
+"501",NA,NA,NA,NA,NA,"ZERO_RESULTS",500
+"502",33.7043858,-117.8794925,"neighborhood","South Coast, Santa Ana, CA, USA","neighborhood,political","OK",501
+"503",NA,NA,NA,NA,NA,"ZERO_RESULTS",502
+"504",42.0668852,-81.3399414,"establishment","Lake Erie","establishment,natural_feature","OK",503
+"505",39.3221089,-123.113059,"locality","Potter Valley, CA 95469, USA","locality,political","OK",504
+"506",38.291859,-122.4580356,"locality","Sonoma, CA 95476, USA","locality,political","OK",505
+"507",46.78307,4.742663,"locality","71640 Givry, France","locality,political","OK",506
+"508",44.2581983,0.2979439,"establishment","12 Rue Maurice Luxembourg, 47160 Buzet-sur-Baïse, France","establishment,point_of_interest","OK",507
+"509",45.504844,10.921923,"establishment","Via Fontana, 14, 37029 San Pietro In Cariano VR, Italy","establishment,food,point_of_interest","OK",508
+"510",40.678535,-7.9080385,"route","Bairro Terras Pretas, 3500 Viseu, Portugal","route","OK",509
+"511",NA,NA,NA,NA,NA,"ZERO_RESULTS",510
+"512",NA,NA,NA,NA,NA,"ZERO_RESULTS",511
+"513",40.277859,-7.508983,"establishment","Universidade da Beira Interior, R. Marquês de Ávila e Bolama, 6201-001 Covilhã, Portugal","establishment,point_of_interest,university","OK",512
+"514",NA,NA,NA,NA,NA,"ZERO_RESULTS",513
+"515",NA,NA,NA,NA,NA,"ZERO_RESULTS",514
+"516",42.9223676,12.6418492,"establishment","Località Torre di Montefalco, 06036 Montefalco PG, Italy","establishment,food,point_of_interest","OK",515
+"517",41.4603375,12.9074592,"establishment","Via Lucia Scaravelli, 14, 04100 Latina LT, Italy","establishment,lodging,point_of_interest","OK",516
+"518",38.6037982,-122.7772125,"establishment","Chalk Hill, California 95448, USA","establishment,natural_feature","OK",517
+"519",45.9081087,27.0905428,"locality","Panciu, Romania","locality,political","OK",518
+"520",43.7765642,11.2532324,"establishment","Via dell'Ariento, 50123 Firenze FI, Italy","establishment,point_of_interest","OK",519
+"521",37.0296949,14.5226706,"establishment","SP3, Km 14,300, 97019 Vittoria RG, Italy","establishment,food,point_of_interest","OK",520
+"522",-34.351814,117.0654331,"locality","Frankland River WA 6396, Australia","locality,political","OK",521
+"523",-33.625,115.3197222,"establishment","Geographe Bay, Western Australia, Australia","establishment,natural_feature","OK",522
+"524",-27.6728168,121.6283098,"administrative_area_level_1","Western Australia, Australia","administrative_area_level_1,political","OK",523
+"525",43.068861,-79.1230797,"establishment","7373 Niagara Square Dr, Niagara Falls, ON L2H 1J2, Canada","establishment,lodging,point_of_interest,spa","OK",524
+"526",41.6738865,14.7520939,"administrative_area_level_1","Molise, Italy","administrative_area_level_1,political","OK",525
+"527",40.0583238,-74.4056612,"administrative_area_level_1","New Jersey, USA","administrative_area_level_1,political","OK",526
+"528",NA,NA,NA,NA,NA,"ZERO_RESULTS",527
+"529",NA,NA,NA,NA,NA,"ZERO_RESULTS",528
+"530",NA,NA,NA,NA,NA,"ZERO_RESULTS",529
+"531",39.2652491,-123.2041429,"locality","Redwood Valley, CA 95470, USA","locality,political","OK",530
+"532",NA,NA,NA,NA,NA,"ZERO_RESULTS",531
+"533",43.6987788,7.2847799,"bar","7 Place de l'Île de Beauté, 06300 Nice, France","bar,cafe,establishment,food,point_of_interest,restaurant","OK",532
+"534",34.1120955,-117.5776336,"establishment","10440 Ashford St, Rancho Cucamonga, CA 91730, USA","establishment,point_of_interest","OK",533
+"535",43.6308502,3.8194283,"route","Allée du Pays d'Ôc, 34080 Montpellier, France","route","OK",534
+"536",-33.4739046,-70.6430321,"route","Bío Bío, Santiago, Región Metropolitana, Chile","route","OK",535
+"537",45.943161,24.96676,"country","Romania","country,political","OK",536
+"538",43.9446996,4.1513764,"administrative_area_level_2","Gard, France","administrative_area_level_2,political","OK",537
+"539",37.3511695,-121.8583851,"establishment","1614 Alum Rock Ave, San Jose, CA 95116, USA","establishment,food,point_of_interest,restaurant","OK",538
+"540",43.5830644,11.3186815,"locality","50022 Greve in Chianti, Metropolitan City of Florence, Italy","locality,political","OK",539
+"541",43.613497,11.073393,"establishment","Via Colle San Lorenzo, 7, 50025 Montespertoli FI, Italy","establishment,lodging,point_of_interest","OK",540
+"542",43.321802,11.3285404,"establishment","30 Piazza Matteotti Giacomo, Siena, Si 53100, Italy","establishment,food,point_of_interest","OK",541
+"543",44.8110677,-0.4823541,"route","Avenue de Claret, 33360 Carignan-de-Bordeaux, France","route","OK",542
+"544",46.192646,4.6974557,"locality","69820 Fleurie, France","locality,political","OK",543
+"545",NA,NA,NA,NA,NA,"ZERO_RESULTS",544
+"546",38.5039105,-120.7565689,"locality","Fiddletown, CA, USA","locality,political","OK",545
+"547",47.276972,-0.485391,"political","Bonnezeaux AOC, 49380 Thouarcé, France","political,sublocality,sublocality_level_1","OK",546
+"548",47.1595458,4.9552993,"establishment","7 Rue des Communes, 21700 Vosne-Romanée, France","establishment,food,point_of_interest","OK",547
+"549",42.5696378,-8.1160242,"establishment","Minho","establishment,natural_feature","OK",548
+"550",48.6221769,7.4839214,"establishment","102 Rue du Général de Gaulle, 67520 Marlenheim, France","establishment,food,liquor_store,point_of_interest,store","OK",549
+"551",NA,NA,NA,NA,NA,"ZERO_RESULTS",550
+"552",46.895502,4.669666,"locality","71150 Cheilly-lès-Maranges, France","locality,political","OK",551
+"553",38.5725523,-90.882081,"locality","Augusta, MO 63332, USA","locality,political","OK",552
+"554",47.744005,3.647396,"locality","89530 Saint-Bris-le-Vineux, France","locality,political","OK",553
+"555",34.5199402,-105.8700901,"administrative_area_level_1","New Mexico, USA","administrative_area_level_1,political","OK",554
+"556",38.8026097,-116.419389,"administrative_area_level_1","Nevada, USA","administrative_area_level_1,political","OK",555
+"557",-34.85025,138.659,"locality","Gilles Plains SA 5086, Australia","locality,political","OK",556
+"558",45.5877329,8.1925447,"locality","13853 Lessona BI, Italy","locality,political","OK",557
+"559",NA,NA,NA,NA,NA,"ZERO_RESULTS",558
+"560",45.6855033,8.4002122,"administrative_area_level_3","28010 Boca, Province of Novara, Italy","administrative_area_level_3,political","OK",559
+"561",42.768583,2.871763,"locality","66600 Rivesaltes, France","locality,political","OK",560
+"562",38.9007616,-9.1181917,"administrative_area_level_3","Bucelas, 2670 Bucelas, Portugal","administrative_area_level_3,political","OK",561
+"563",47.225962,4.968739,"locality","21220 Gevrey-Chambertin, France","locality,political","OK",562
+"564",NA,NA,NA,NA,NA,"ZERO_RESULTS",563
+"565",-34.3963392,-71.1700793,"locality","Peumo, O'Higgins Region, Chile","locality,political","OK",564
+"566",NA,NA,NA,NA,NA,"ZERO_RESULTS",565
+"567",-40.0098842,-65.3927206,"establishment","Río Negro, Argentina","establishment,natural_feature","OK",566
+"568",45.9421936,12.31999,"establishment","Via Martiri delle Foibe, 31015 Scomigo TV, Italy","establishment,food,point_of_interest","OK",567
+"569",36.7289127,-121.2788708,"locality","Paicines, CA, USA","locality,political","OK",568
+"570",45.4617136,4.7638274,"route","Rue des Côtes du Rhône, 69420 Condrieu, France","route","OK",569
+"571",NA,NA,NA,NA,NA,"ZERO_RESULTS",570
+"572",NA,NA,NA,NA,NA,"ZERO_RESULTS",571
+"573",-33.5922807,-71.6055123,"locality","San Antonio, Valparaiso Region, Chile","locality,political","OK",572
+"574",NA,NA,NA,NA,NA,"ZERO_RESULTS",573
+"575",39.0915751,-120.8039474,"administrative_area_level_2","Placer County, CA, USA","administrative_area_level_2,political","OK",574
+"576",43.7983982,11.4683869,"establishment","Località Selvapiana, 43, 50068 Rufina FI, Italy","establishment,food,point_of_interest","OK",575
+"577",48.113326,16.861693,"establishment","Hauptstraße 1A, 2404 Petronell-Carnuntum, Austria","establishment,museum,point_of_interest","OK",576
+"578",39.4937392,-6.0679194,"administrative_area_level_1","Extremadura, Spain","administrative_area_level_1,political","OK",577
+"579",40.385073,17.9652521,"locality","73015 Salice Salentino LE, Italy","locality,political","OK",578
+"580",-43.7542275,171.1637245,"administrative_area_level_1","Canterbury, New Zealand","administrative_area_level_1,political","OK",579
+"581",46.302479,4.816992,"route","Rue de Chardonnay, 71000 Mâcon, France","route","OK",580
+"582",47.06605,4.886974,"locality","21550 Ladoix-Serrigny, France","locality,political","OK",581
+"583",46.3945585,4.8321334,"route","Route de Clesse, 71260 Charbonnières, France","route","OK",582
+"584",NA,NA,NA,NA,NA,"ZERO_RESULTS",583
+"585",46.2772685,4.7621525,"route","Route de Fuissé, 71000 Mâcon, France","route","OK",584
+"586",-34.6546423,139.1009757,"locality","Eden Valley SA 5235, Australia","locality,political","OK",585
+"587",33.6995646,-117.8695555,"establishment","136 W MacArthur Blvd, Santa Ana, CA 92707, USA","establishment,food,meal_takeaway,point_of_interest,restaurant","OK",586
+"588",-33.7339291,-69.1199066,"locality","La Consulta, Mendoza, Argentina","locality,political","OK",587
+"589",38.2975381,-122.286865,"locality","Napa, CA, USA","locality,political","OK",588
+"590",38.3104969,-121.9017954,"administrative_area_level_2","Solano County, CA, USA","administrative_area_level_2,political","OK",589
+"591",NA,NA,NA,NA,NA,"ZERO_RESULTS",590
+"592",-34.9284989,138.6007456,"colloquial_area","Adelaide SA, Australia","colloquial_area,locality,political","OK",591
+"593",-33.1194013,-68.8868944,"locality","Agrelo, Mendoza, Argentina","locality,political","OK",592
+"594",41.149001,24.1470796,"locality","Drama 661 00, Greece","locality,political","OK",593
+"595",45.629925,12.5729068,"establishment","Piazza Alcide de Gasperi, 5, 30027 San Donà di Piave VE, Italy","establishment,health,local_government_office,point_of_interest","OK",594
+"596",NA,NA,NA,NA,NA,"ZERO_RESULTS",595
+"597",43.796111,5.223889,"establishment","Luberon, 84560 Ménerbes, France","establishment,natural_feature","OK",596
+"598",31.6878332,34.9788865,"establishment","Netiv HaLamed-Heh, 99855, Israel","establishment,food,point_of_interest","OK",597
+"599",35.645397,-120.874138,"locality","Adelaida, CA 93446, USA","locality,political","OK",598
+"600",39.3087714,16.3463791,"administrative_area_level_1","Calabria, Italy","administrative_area_level_1,political","OK",599
+"601",41.0125228,14.9680914,"administrative_area_level_3","83030 Taurasi, Province of Avellino, Italy","administrative_area_level_3,political","OK",600
+"602",36.8500963,15.1095323,"establishment","Contrada Pizzuta, 96017 Marina di Noto SR, Italy","establishment,lodging,point_of_interest","OK",601
+"603",49.815273,6.129583,"country","Luxembourg","country,political","OK",602
+"604",43.5655659,3.188741,"locality","34600 Faugères, France","locality,political","OK",603
+"605",43.0705651,2.2210149,"establishment","Route de Carcassonne, 11300 Limoux, France","establishment,food,point_of_interest","OK",604
+"606",45.879188,12.011496,"establishment","Via Anche, 1, 31049 Bigolino TV, Italy","establishment,food,point_of_interest","OK",605
+"607",40.8829943,14.2865792,"establishment","F., Viale Fulco Ruffo di Calabria, 80144 Capodichino NA, Italy","establishment,point_of_interest","OK",606
+"608",48.6616037,9.3501336,"administrative_area_level_1","Baden-Württemberg, Germany","administrative_area_level_1,political","OK",607
+"609",52.9984287,9.0809081,"political","Baden, 28832 Achim, Germany","political,sublocality,sublocality_level_1","OK",608
+"610",43.4067986,3.5088456,"route","Avenue du Picpoul, 34850 Pinet, France","route","OK",609
+"611",40.9166667,24.0833333,"establishment","Pangaion Hills, Pieres 640 08, Greece","establishment,natural_feature","OK",610
+"612",-33.4529358,-70.712358,"route","Elqui, Lo Prado, Región Metropolitana, Chile","route","OK",611
+"613",-41.565373,173.5286352,"locality","Wairau Valley 7271, New Zealand","locality,political","OK",612
+"614",48.626397,-2.2504209,"route","Rue de Marmande, 22380 Saint-Cast-le-Guildo, France","route","OK",613
+"615",47.213041,-0.5296783,"establishment","Le Layon, France","establishment,natural_feature","OK",614
+"616",44.9232574,4.8728443,"route","Quai du Rhône, 07500 Guilherand-Granges, France","route","OK",615
+"617",36.4701483,-121.2298501,"establishment","32020 Stonewall Canyon Rd, Soledad, CA 93960, USA","establishment,food,point_of_interest","OK",616
+"618",47.383101,-0.656999,"locality","49170 Savennières, France","locality,political","OK",617
+"619",NA,NA,NA,NA,NA,"ZERO_RESULTS",618
+"620",41.108333,14.608333,"establishment","Taburnus, 82030 Tocco Caudio, Province of Benevento, Italy","establishment,natural_feature","OK",619
+"621",47.167296,0.240385,"locality","37500 Chinon, France","locality,political","OK",620
+"622",45.721871,10.0670398,"establishment","Lake Iseo, Italy","establishment,natural_feature","OK",621
+"623",47.412068,0.799248,"locality","37210 Vouvray, France","locality,political","OK",622
+"624",45.5227676,-122.3686242,"route","Historic Columbia River Hwy, Troutdale, OR, USA","route","OK",623
+"625",NA,NA,NA,NA,NA,"ZERO_RESULTS",624
+"626",47.2702304,-0.1047236,"establishment","3 Rue Léopold Palustre, 49400 Saumur, France","establishment,food,point_of_interest","OK",625
+"627",41.0792257,0.3371889,"administrative_area_level_3","Terra Alta, Tarragona, Spain","administrative_area_level_3,political","OK",626
+"628",-37.947,145.153,"locality","Springvale VIC 3171, Australia","locality,political","OK",627
+"629",38.7618702,-3.387926,"establishment","Calle Capitán Fillol, 4, 13300 Valdepeñas, Cdad. Real, Spain","establishment,lodging,point_of_interest","OK",628
+"630",NA,NA,NA,NA,NA,"ZERO_RESULTS",629
+"631",43.5781889,11.2132656,"establishment","Via Sangallo 41, Località Sambuca, 50028 Tavarnelle Val di Pesa FI, Italy","establishment,point_of_interest","OK",630
+"632",47.159051,4.954572,"locality","Vosne-Romanée, France","locality,political","OK",631
+"633",45.8998453,12.0401104,"establishment","Via Follo, 33, 31049 Santo Stefano, Valdobbiadene TV, Italy","establishment,food,point_of_interest","OK",632
+"634",NA,NA,NA,NA,NA,"ZERO_RESULTS",633
+"635",44.6880915,8.8037472,"locality","15066 Gavi AL, Italy","locality,political","OK",634
+"636",44.7322767,7.9837976,"route","Via dell'Arneis, 12040 Piobesi d'Alba CN, Italy","route","OK",635
+"637",44.5217905,7.9469364,"establishment","Borgata Gombe, 31/32, 12063 Dogliani CN, Italy","establishment,food,lodging,point_of_interest","OK",636
+"638",NA,NA,NA,NA,NA,"ZERO_RESULTS",637
+"639",40.7299182,-73.993174,"establishment","735 Broadway, New York, NY 10003, USA","establishment,food,liquor_store,point_of_interest,store","OK",638
+"640",45.2745018,13.8901858,"establishment","Istria","establishment,natural_feature","OK",639
+"641",42.8652771,17.5505152,"establishment","Pelješac, Croatia","establishment,natural_feature","OK",640
+"642",47.284852,0.12535,"locality","37140 Saint-Nicolas-de-Bourgueil, France","locality,political","OK",641
+"643",48.0269741,-120.3377317,"establishment","Lake Chelan, Washington, USA","establishment,natural_feature","OK",642
+"644",41.6481602,45.6905554,"administrative_area_level_1","Kakheti, Georgia","administrative_area_level_1,political","OK",643
+"645",-34.5291043,-56.2873482,"locality","Canelones, Canelones Department, Uruguay","locality,political","OK",644
+"646",NA,NA,NA,NA,NA,"ZERO_RESULTS",645
+"647",43.1343914,11.0111351,"establishment","Hotel Rifugio Prategiano, Maremma Toscana; Tuscany, Loc. Prategiano 45, Maremma Tuscany, 58026 Montieri GR, Italy","establishment,food,lodging,park,point_of_interest,restaurant","OK",646
+"648",52.3555177,-1.1743197,"administrative_area_level_1","England, UK","administrative_area_level_1,political","OK",647
+"649",46.6020711,-120.5058987,"establishment","Yakima, WA 98908, USA","establishment,food,point_of_interest","OK",648
+"650",44.5892877,8.1440365,"establishment","Via Provinciale, 17, 12050 Bosia CN, Italy","establishment,food,point_of_interest","OK",649
+"651",38.7426376,-120.4357631,"administrative_area_level_2","El Dorado County, CA, USA","administrative_area_level_2,political","OK",650
+"652",38.5024689,-122.2653887,"administrative_area_level_2","Napa County, CA, USA","administrative_area_level_2,political","OK",651
+"653",47.0831185,4.9145067,"establishment","15 Place de la Mairie, 21700 Corgoloin, France","establishment,food,point_of_interest","OK",652
+"654",-34.3984467,-71.6215715,"locality","Marchigüe, Marchihue, O'Higgins Region, Chile","locality,political","OK",653
+"655",47.0134658,4.8157761,"establishment","97 Route de Pommard, 21200 Beaune, France","establishment,food,liquor_store,point_of_interest,store","OK",654
+"656",-33.7342304,18.9621091,"locality","Paarl, South Africa","locality,political","OK",655
+"657",46.950588,4.707633,"locality","21190 Saint-Aubin, France","locality,political","OK",656
+"658",38.083403,-122.7633036,"administrative_area_level_2","Marin County, CA, USA","administrative_area_level_2,political","OK",657
+"659",44.8175558,-0.5700489,"route","Rue de Barsac, 33800 Bordeaux, France","route","OK",658
+"660",NA,NA,NA,NA,NA,"ZERO_RESULTS",659
+"661",37.6198182,12.9665821,"administrative_area_level_3","92013 Menfi, AG, Italy","administrative_area_level_3,political","OK",660
+"662",36.7287633,-4.2998301,"route","Calle Montilla Moriles, 29730 Rincón de la Victoria, Málaga, Spain","route","OK",661
+"663",NA,NA,NA,NA,NA,"ZERO_RESULTS",662
+"664",47.084575,4.851313,"locality","21420 Pernand-Vergelesses, France","locality,political","OK",663
+"665",36.7212737,-4.4213988,"administrative_area_level_4","Málaga, Spain","administrative_area_level_4,political","OK",664
+"666",37.5442706,-4.7277528,"administrative_area_level_1","Andalusia, Spain","administrative_area_level_1,political","OK",665
+"667",46.986357,4.747391,"locality","21190 Auxey-Duresses, France","locality,political","OK",666
+"668",47.063402,4.817946,"locality","21420 Savigny-lès-Beaune, France","locality,political","OK",667
+"669",46.4190666,4.6625596,"route","Route de Mâcon, 71250 Cluny, France","route","OK",668
+"670",45.9284405,6.8705434,"establishment","582 Rue Joseph Vallot, 74400 Chamonix-Mont-Blanc, France","establishment,lodging,point_of_interest","OK",669
+"671",43.433953,6.142095,"locality","83170 Vins-sur-Caramy, France","locality,political","OK",670
+"672",NA,NA,NA,NA,NA,"ZERO_RESULTS",671
+"673",47.00151,4.781618,"locality","21190 Volnay, France","locality,political","OK",672
+"674",-33.8259414,18.6531909,"political","Durbanville, Cape Town, South Africa","political,sublocality,sublocality_level_1","OK",673
+"675",38.5139251,-123.2455683,"route","Fort Ross, Jenner, CA 95450, USA","route","OK",674
+"676",36.6974604,-121.405214,"establishment","Mt Harlan, California 95023, USA","establishment,natural_feature","OK",675
+"677",47.3564111,-0.6525841,"establishment","8 Rue de l'Abbaye, 49190 Rochefort-sur-Loire, France","establishment,food,point_of_interest","OK",676
+"678",NA,NA,NA,NA,NA,"ZERO_RESULTS",677
+"679",NA,NA,NA,NA,NA,"ZERO_RESULTS",678
+"680",NA,NA,NA,NA,NA,"ZERO_RESULTS",679
+"681",NA,NA,NA,NA,NA,"ZERO_RESULTS",680
+"682",NA,NA,NA,NA,NA,"ZERO_RESULTS",681
+"683",47.49973,1.46013,"locality","41700 Cheverny, France","locality,political","OK",682
+"684",48.1936512,16.3777416,"establishment","Prinz Eugen-Straße 34, 1040 Wien, Austria","establishment,point_of_interest","OK",683
+"685",37.616667,22.383333,"locality","Mantineia 220 05, Greece","locality,political","OK",684
+"686",44.126003,12.280242,"car_repair","Via Emilia Levante, 1090, 47521 Cesena FC, Italy","car_repair,establishment,point_of_interest,store","OK",685
+"687",NA,NA,NA,NA,NA,"ZERO_RESULTS",686
+"688",33.6969542,-117.719018,"route","Cienega, Irvine, CA 92618, USA","route","OK",687
+"689",33.4936391,-117.1483648,"locality","Temecula, CA, USA","locality,political","OK",688
+"690",40.3694997,23.287085,"administrative_area_level_3","Halkidiki, Greece","administrative_area_level_3,political","OK",689
+"691",33.854721,35.862285,"country","Lebanon","country,political","OK",690
+"692",45.5958705,8.4228612,"locality","28074 Ghemme, Province of Novara, Italy","locality,political","OK",691
+"693",NA,NA,NA,NA,NA,"ZERO_RESULTS",692
+"694",40.5772757,8.3148796,"route","Via Sicilia, 07041 Alghero SS, Italy","route","OK",693
+"695",38.5254047,-8.8941,"administrative_area_level_2","Setúbal, Portugal","administrative_area_level_2,political","OK",694
+"696",47.468607,-0.495751,"locality","Saint-Barthélemy-d'Anjou, France","locality,political","OK",695
+"697",44.867471,0.520136,"political","Pécharmant, 24100 Bergerac, France","political,sublocality,sublocality_level_1","OK",696
+"698",43.329402,2.619386,"establishment","34210 La Livinière, France","establishment,food,point_of_interest","OK",697
+"699",43.054859,1.997267,"locality","11230 Corbières, France","locality,political","OK",698
+"700",37.798045,12.4370156,"locality","91025 Marsala, Province of Trapani, Italy","locality,political","OK",699
+"701",49.6949242,6.7649431,"establishment","Ruwer, Germany","establishment,natural_feature","OK",700
+"702",39.0638705,-108.5506486,"locality","Grand Junction, CO, USA","locality,political","OK",701
+"703",39.5500507,-105.7820674,"administrative_area_level_1","Colorado, USA","administrative_area_level_1,political","OK",702
+"704",NA,NA,NA,NA,NA,"ZERO_RESULTS",703
+"705",49.83385,-119.5236098,"establishment","Okanagan Lake, British Columbia, Canada","establishment,natural_feature","OK",704
+"706",-33.6186082,-70.5906057,"locality","Puente Alto, Santiago Metropolitan Region, Chile","locality,political","OK",705
+"707",-35.1054491,138.6297435,"locality","Clarendon SA 5157, Australia","locality,political","OK",706
+"708",-36.7772623,174.5588019,"locality","Kumeu, New Zealand","locality,political","OK",707
+"709",NA,NA,NA,NA,NA,"ZERO_RESULTS",708
+"710",39.6182387,-8.9409368,"route","R. Trás das Eiras, 2460 Montes, Portugal","route","OK",709
+"711",32.422877,35.3027226,"administrative_area_level_4","Samaria","administrative_area_level_4,political","OK",710
+"712",NA,NA,NA,NA,NA,"ZERO_RESULTS",711
+"713",NA,NA,NA,NA,NA,"ZERO_RESULTS",712
+"714",47.065692,4.85994,"locality","Aloxe-Corton, France","locality,political","OK",713
+"715",39.9019286,22.5478028,"locality","Rapsani 400 07, Greece","locality,political","OK",714
+"716",NA,NA,NA,NA,NA,"ZERO_RESULTS",715
+"717",NA,NA,NA,NA,NA,"ZERO_RESULTS",716
+"718",NA,NA,NA,NA,NA,"ZERO_RESULTS",717
+"719",NA,NA,NA,NA,NA,"ZERO_RESULTS",718
+"720",48.2081743,16.3738189,"locality","Vienna, Austria","locality,political","OK",719
+"721",-32.1932173,151.700565,"colloquial_area","Hunter Region, NSW, Australia","colloquial_area,political","OK",720
+"722",NA,NA,NA,NA,NA,"ZERO_RESULTS",721
+"723",-37.0722565,142.6268857,"establishment","Other Reserves and Public Land, Victoria, Australia","establishment,park,point_of_interest,premise","OK",722
+"724",43.393751,6.040819,"establishment","Place du General de Gaulle, 83170 La Celle en Provence, France","establishment,point_of_interest","OK",723
+"725",-41.2706319,173.2839653,"locality","Nelson, New Zealand","locality,political","OK",724
+"726",-43.0458927,172.7873638,"establishment","376 Omihi Rd, Waipara 7483, New Zealand","establishment,food,point_of_interest","OK",725
+"727",-34.0257608,18.4230789,"political","Constantia, Cape Town, South Africa","political,sublocality,sublocality_level_1","OK",726
+"728",43.1193378,10.7415054,"route","Via Val di Cornia, 58025 Monterotondo marittimo GR, Italy","route","OK",727
+"729",NA,NA,NA,NA,NA,"ZERO_RESULTS",728
+"730",47.2160866,0.0598639,"route","Rue du Port au Vin, 49730 Montsoreau, France","route","OK",729
+"731",31.828458,-109.949686,"administrative_area_level_2","Cochise County, AZ, USA","administrative_area_level_2,political","OK",730
+"732",NA,NA,NA,NA,NA,"ZERO_RESULTS",731
+"733",38.854586,-122.96574,"establishment","25475 Cloverdale Peak Rd, Cloverdale, CA 95425, USA","establishment,food,liquor_store,point_of_interest,store","OK",732
+"734",41.599156,0.581227,"establishment","25192 Lleida, Spain","establishment,point_of_interest","OK",733
+"735",NA,NA,NA,NA,NA,"ZERO_RESULTS",734
+"736",NA,NA,NA,NA,NA,"ZERO_RESULTS",735
+"737",45.4383842,10.9916215,"locality","Verona, VR, Italy","locality,political","OK",736
+"738",NA,NA,NA,NA,NA,"ZERO_RESULTS",737
+"739",39.0201887,-122.886702,"political","Big Valley Rancheria, CA 95453, USA","political","OK",738
+"740",37.3544669,-121.5587164,"route","San Antonio Valley Rd, California, USA","route","OK",739
+"741",47.0525047,4.3837215,"colloquial_area","Burgundy, France","colloquial_area,political","OK",740
+"742",47.8120357,3.8024908,"route","Petit Chemin du Moulin, 89800 Chablis, France","route","OK",741
+"743",34.4184294,-117.0987172,"route","Sierra Pelona Dr, Apple Valley, CA 92308, USA","route","OK",742
+"744",45.5217023,10.8379339,"locality","37015 Sant'Ambrogio di Valpolicella VR, Italy","locality,political","OK",743
+"745",-29.0974897,-51.4503228,"administrative_area_level_2","Pinto Bandeira - RS, 95700-000, Brazil","administrative_area_level_2,political","OK",744
+"746",35.2827524,-120.6596156,"locality","San Luis Obispo, CA, USA","locality,political","OK",745
+"747",NA,NA,NA,NA,NA,"ZERO_RESULTS",746
+"748",NA,NA,NA,NA,NA,"ZERO_RESULTS",747
+"749",46.945092,4.753296,"locality","21190 Puligny-Montrachet, France","locality,political","OK",748
+"750",38.393381,-122.241915,"route","Atlas Peak Rd, Napa, CA 94558, USA","route","OK",749
+"751",44.916767,-0.0886393,"establishment","Château Rigaud, 33570 Puisseguin, France","establishment,food,point_of_interest","OK",750
+"752",NA,NA,NA,NA,NA,"ZERO_RESULTS",751
+"753",NA,NA,NA,NA,NA,"ZERO_RESULTS",752
+"754",45.9005145,13.8743767,"colloquial_area","Slovene Littoral, Slovenia","colloquial_area,political","OK",753
+"755",47.411631,28.369885,"country","Moldova","country,political","OK",754
+"756",45.5453076,10.6914197,"administrative_area_level_3","37011 Bardolino, VR, Italy","administrative_area_level_3,political","OK",755
+"757",-32.522779,-55.765835,"country","Uruguay","country,political","OK",756
+"758",34.5123591,-5.4221019,"locality","Douar Zenata Lemrabih, Morocco","locality,political","OK",757
+"759",43.0581804,11.6060636,"locality","53027 San Quirico d'Orcia, Province of Siena, Italy","locality,political","OK",758
+"760",-36.7235617,140.3481835,"colloquial_area","Limestone Coast, SA, Australia","colloquial_area,political","OK",759
+"761",46.3912819,4.74505,"route","Route de Mâcon, 71960 Igé, France","route","OK",760
+"762",-37.3879637,143.4770359,"administrative_area_level_2","Pyrenees, VIC, Australia","administrative_area_level_2,political","OK",761
+"763",45.8998453,12.0401104,"establishment","Via Follo, 33, 31049 Santo Stefano, Valdobbiadene TV, Italy","establishment,food,point_of_interest","OK",762
+"764",34.4916908,-117.2785979,"route","High Valley, Victorville, CA 92395, USA","route","OK",763
+"765",NA,NA,NA,NA,NA,"ZERO_RESULTS",764
+"766",39.285963,-76.599861,"establishment","400 S Central Ave, Baltimore, MD 21202, USA","establishment,parking,point_of_interest","OK",765
+"767",36.5890294,-121.9033905,"route","San Bernabe Dr, Monterey, CA 93940, USA","route","OK",766
+"768",NA,NA,NA,NA,NA,"ZERO_RESULTS",767
+"769",37.1310577,-122.1680218,"establishment","Ben Lomond Mountain, California 95060, USA","establishment,natural_feature","OK",768
+"770",-30.559482,22.937506,"country","South Africa","country,political","OK",769
+"771",40.756192,-73.881339,"establishment","8607 Northern Blvd, Flushing, NY 11372, USA","establishment,food,meal_takeaway,point_of_interest,restaurant","OK",770
+"772",47.195673,4.962496,"locality","21220 Morey-Saint-Denis, France","locality,political","OK",771
+"773",37.9642529,-91.8318334,"administrative_area_level_1","Missouri, USA","administrative_area_level_1,political","OK",772
+"774",42.0191676,-71.5548658,"route","Southern New England Trunkline Trail, Blackstone, MA, USA","route","OK",773
+"775",41.7234134,-81.2350032,"route","Grand River Ave, Painesville, OH 44077, USA","route","OK",774
+"776",31.6795337,-110.6553594,"locality","Sonoita, AZ 85637, USA","locality,political","OK",775
+"777",-14.07546,-75.7341811,"locality","Ica, Peru","locality,political","OK",776
+"778",47.0676505,4.85854,"route","Chemin de Charlemagne, 21420 Aloxe-Corton, France","route","OK",777
+"779",44.695802,10.610389,"establishment","Via Premuda, 42, 42123 Reggio Emilia RE, Italy","establishment,point_of_interest,school","OK",778
+"780",31.32395,-116.246125,"political","San Vicente, B.C., Mexico","political,sublocality,sublocality_level_1","OK",779
+"781",-36.694722,146.401667,"locality","King Valley VIC 3678, Australia","locality,political","OK",780
+"782",47.00931,4.795325,"locality","Pommard, France","locality,political","OK",781
+"783",19.9974533,73.7898023,"locality","Nashik, Maharashtra, India","locality,political","OK",782
+"784",44.0152182,10.2650951,"locality","55040 Alla Costa LU, Italy","locality,political","OK",783
+"785",NA,NA,NA,NA,NA,"ZERO_RESULTS",784
+"786",47.1618517,4.9551881,"establishment","1 Place de l'Église, 21700 Vosne-Romanée, France","establishment,food,point_of_interest","OK",785
+"787",42.967171,11.437808,"establishment","Via Giuncheti, 53024 Montalcino SI, Italy","establishment,food,liquor_store,point_of_interest,store","OK",786
+"788",NA,NA,NA,NA,NA,"ZERO_RESULTS",787
+"789",40.924616,-72.3547915,"colloquial_area","The Hamptons, NY, USA","colloquial_area,political","OK",788
+"790",-33.8974833,19.1523292,"locality","Franschhoek, 7690, South Africa","locality,political","OK",789
+"791",NA,NA,NA,NA,NA,"ZERO_RESULTS",790
+"792",NA,NA,NA,NA,NA,"ZERO_RESULTS",791
+"793",NA,NA,NA,NA,NA,"ZERO_RESULTS",792
+"794",44.7180522,-87.5950953,"establishment","Niagara Escarpment, Brussels, WI 54213, USA","establishment,natural_feature","OK",793
+"795",-45.1526707,169.8926333,"establishment","South Island, New Zealand","establishment,natural_feature","OK",794
+"796",-37.4713077,144.7851531,"administrative_area_level_1","Victoria, Australia","administrative_area_level_1,political","OK",795
+"797",44.94665,-0.005733,"establishment","Château de Francs, 33570 Francs, France","establishment,food,point_of_interest","OK",796
+"798",38.4834568,-78.8497485,"establishment","Shenandoah Valley, Linville, VA 22802, USA","establishment,natural_feature","OK",797
+"799",-34.7793791,-55.7596225,"locality","Atlantida, Canelones Department, Uruguay","locality,political","OK",798
+"800",41.3819241,25.222355,"establishment","41°22'56. 25°13'35.0""E, bul. ""Bulgaria"" 0, 6861 Кърджали, Bulgaria","establishment,point_of_interest","OK",799
+"801",46.3293137,24.2935777,"locality","Târnăveni 545600, Romania","locality,political","OK",800
+"802",45.5921939,5.9002388,"establishment","1097 Avenue des Landiers, 73000 Chambéry, France","establishment,florist,point_of_interest,store","OK",801
+"803",45.942261,13.6395425,"establishment","Vipavska cesta, 5000 Nova Gorica, Slovenia","establishment,point_of_interest,university","OK",802
+"804",43.510449,5.4936109,"political","Palette, 13100 Le Tholonet, France","political,sublocality,sublocality_level_1","OK",803
+"805",43.467646,6.2375947,"administrative_area_level_2","Var, France","administrative_area_level_2,political","OK",804
+"806",47.3975791,0.9255916,"route","Val de la Coudre, 37400 Lussault-sur-Loire, France","route","OK",805
+"807",43.780392,3.813078,"establishment","Pic Saint-Loup, 34270 Valflaunès, France","establishment,natural_feature","OK",806
+"808",NA,NA,NA,NA,NA,"ZERO_RESULTS",807
+"809",34.008889,36.145278,"establishment","Beqaa Valley, Lebanon","establishment,natural_feature","OK",808
+"810",41.1188827,1.2444909,"locality","Tarragona, Spain","locality,political","OK",809
+"811",47.5532402,1.0105289,"colloquial_area","Loire Valley, France","colloquial_area,political","OK",810
+"812",45.502414,10.9590865,"establishment","Località Le Ragose, 37024 Arbizzano di Negrar VR, Italy","establishment,food,point_of_interest","OK",811
+"813",-27.733333,32.05,"locality","Elgin, South Africa","locality,political","OK",812
+"814",47.1492182,4.8905548,"route","Route des Hautes Côtes, 21700 Villars-Fontaine, France","route","OK",813
+"815",-33.4529234,-70.584421,"route","Itata, Ñuñoa, Región Metropolitana, Chile","route","OK",814
+"816",43.158333,3.1,"establishment","Massif de la Clape, 11100 Narbonne, France","establishment,natural_feature","OK",815
+"817",44.3561224,9.3917323,"locality","16040 Ne, Metropolitan City of Genoa, Italy","locality,political","OK",816
+"818",NA,NA,NA,NA,NA,"ZERO_RESULTS",817
+"819",40.6224781,-73.7223561,"doctor","545 Central Ave, Cedarhurst, NY 11516, USA","doctor,establishment,health,point_of_interest","OK",818
+"820",43.1735657,11.9332981,"establishment","Via Colonica, 1, 53045 Montepulciano SI, Italy","establishment,food,liquor_store,point_of_interest,store","OK",819
+"821",36.4397212,-121.3183599,"route","Santa Barbara, Soledad, CA 93960, USA","route","OK",820
+"822",NA,NA,NA,NA,NA,"ZERO_RESULTS",821
+"823",32.7607074,-16.9594723,"administrative_area_level_1","Madeira, Portugal","administrative_area_level_1,political","OK",822
+"824",41.4745038,1.2506002,"administrative_area_level_3","La Conca de Barberà, Tarragona, Spain","administrative_area_level_3,political","OK",823
+"825",43.1588749,-79.4921643,"establishment","4152 Locust Ln, Beamsville, ON L0R 1B0, Canada","establishment,food,point_of_interest","OK",824
+"826",45.4874938,11.2950489,"establishment","Via Motto Piane, 12, 37030 Roncà VR, Italy","establishment,food,point_of_interest","OK",825
+"827",47.282487,0.168611,"locality","37140 Bourgueil, France","locality,political","OK",826
+"828",44.8210063,-0.5988763,"route","Impasse Sainte- Croix du Mont, 33000 Bordeaux, France","route","OK",827
+"829",35.126413,33.429859,"country","Cyprus","country,political","OK",828
+"830",40.9166667,24.0833333,"establishment","Pangaion Hills, Pieres 640 08, Greece","establishment,natural_feature","OK",829
+"831",42.0668852,-81.3399414,"establishment","Lake Erie","establishment,natural_feature","OK",830
+"832",45.900328,12.0982601,"route","Via del Prosecco, 31010 Farra di Soligo TV, Italy","route","OK",831
+"833",46.100171,4.656352,"political","Côté de Brouilly, 69460 Odenas, France","political,sublocality,sublocality_level_1","OK",832
+"834",46.3398881,4.7253989,"route","Route de Mâcon, 71960 La Roche-Vineuse, France","route","OK",833
+"835",NA,NA,NA,NA,NA,"ZERO_RESULTS",834
+"836",38.5674187,14.8337879,"establishment","Salina, 98050 Province of Messina, Italy","establishment,natural_feature","OK",835
+"837",-33.6404794,19.0096562,"locality","Wellington, 7655, South Africa","locality,political","OK",836
+"838",44.8480803,-0.5727173,"route","Rue Foy, 33000 Bordeaux, France","route","OK",837
+"839",43.418646,2.945129,"locality","34360 Saint-Chinian, France","locality,political","OK",838
+"840",45.1090106,4.8262706,"route","Rue du Rhône, 26600 Gervans, France","route","OK",839
+"841",-31.4166667,138.75,"establishment","Flinders Range, Flinders Ranges SA 5434, Australia","establishment,natural_feature","OK",840
+"842",38.2554723,-122.3349422,"establishment","4048 Sonoma Hwy, Napa, CA 94559, USA","establishment,food,health,lodging,point_of_interest,restaurant,spa","OK",841
+"843",41.5911589,1.5208624,"administrative_area_level_1","Catalonia, Spain","administrative_area_level_1,political","OK",842
+"844",46.290768,4.740503,"political","Pouilly, 71960 Solutré-Pouilly, France","political,sublocality,sublocality_level_1","OK",843
+"845",NA,NA,NA,NA,NA,"ZERO_RESULTS",844
+"846",42.7168337,12.2519308,"establishment","Lago di Corbara, Provincia di Terni, Italy","establishment,natural_feature","OK",845
+"847",46.3385307,4.726553,"route","Route de Mâcon, 71960 La Roche-Vineuse, France","route","OK",846
+"848",-38.662334,178.017649,"locality","Gisborne, New Zealand","locality,political","OK",847
+"849",39.3604212,-9.1582014,"locality","2510 Óbidos Municipality, Portugal","locality,political","OK",848
+"850",45.3166667,11.6666667,"establishment","Euganean Hills, 35030 Vo, Province of Padua, Italy","establishment,natural_feature","OK",849
+"851",-43.5226027,172.5678853,"premise","Wairarapa, Ilam, Christchurch 8041, New Zealand","premise","OK",850
+"852",40.069099,45.038189,"country","Armenia","country,political","OK",851
+"853",-34.6324213,-71.3592116,"locality","Santa Cruz, O'Higgins Region, Chile","locality,political","OK",852
+"854",NA,NA,NA,NA,NA,"ZERO_RESULTS",853
+"855",42.9297182,16.888644,"establishment","Korčula, Croatia","establishment,natural_feature","OK",854
+"856",36.785262,11.9918779,"establishment","Pantelleria, 91017 Pantelleria, Province of Trapani, Italy","establishment,natural_feature","OK",855
+"857",45.8350536,21.0945535,"route","Strada Viilor, Dudeștii Noi, Romania","route","OK",856
+"858",40.6331249,-89.3985283,"administrative_area_level_1","Illinois, USA","administrative_area_level_1,political","OK",857
+"859",42.9996008,11.5156193,"church","Località Sant'Antimo, 53024 Montalcino SI, Italy","church,establishment,place_of_worship,point_of_interest","OK",858
+"860",43.7983982,11.4683869,"establishment","Località Selvapiana, 43, 50068 Rufina FI, Italy","establishment,food,point_of_interest","OK",859
+"861",44.837789,-0.57918,"locality","Bordeaux, France","locality,political","OK",860
+"862",41.5947226,9.3099556,"bar","Route de Palombaggia, 20137 Porto-Vecchio, France","bar,establishment,food,health,lodging,point_of_interest,restaurant,spa","OK",861
+"863",42.8155841,2.7491094,"establishment","24 Rue Jean Badia, 66720 Tautavel, France","establishment,food,point_of_interest","OK",862
+"864",42.7001964,3.0099495,"route","Boulevard Traverse du Village, 66140 Canet-en-Roussillon, France","route","OK",863
+"865",41.108333,14.608333,"establishment","Taburnus, 82030 Tocco Caudio, Province of Benevento, Italy","establishment,natural_feature","OK",864
+"866",41.0847777,16.2706484,"establishment","76123 Andria, Province of Barletta-Andria-Trani, Italy","establishment,point_of_interest","OK",865
+"867",NA,NA,NA,NA,NA,"ZERO_RESULTS",866
+"868",NA,NA,NA,NA,NA,"ZERO_RESULTS",867
+"869",36.848315,28.2598229,"establishment","Çıldır Mahallesi, Kemal Seyfettin Elgin Blv., 48700 Marmaris/Muğla, Turkey","establishment,lodging,point_of_interest","OK",868
+"870",46.3068839,4.828731,"locality","71000 Mâcon, France","locality,political","OK",869
+"871",47.24534,4.972309,"locality","21220 Fixin, France","locality,political","OK",870
+"872",46.1633869,9.8447202,"establishment","Valtellina, 23100 Sondrio, Province of Sondrio, Italy","establishment,natural_feature","OK",871
+"873",47.065692,4.85994,"locality","Aloxe-Corton, France","locality,political","OK",872
+"874",NA,NA,NA,NA,NA,"ZERO_RESULTS",873
+"875",NA,NA,NA,NA,NA,"ZERO_RESULTS",874
+"876",46.70326,4.672936,"establishment","Montagny, 71390 Montagny-lès-Buxy, France","establishment,food,point_of_interest","OK",875
+"877",-33.648094,18.9979384,"route","Simonsberg St, Wellington, 7654, South Africa","route","OK",876
+"878",-34.5907059,-56.2566093,"locality","Juanico, Canelones Department, Uruguay","locality,political","OK",877
+"879",43.413029,34.299316,"establishment","Black Sea","establishment,natural_feature","OK",878
+"880",-27.2423392,-50.2188556,"administrative_area_level_1","State of Santa Catarina, Brazil","administrative_area_level_1,political","OK",879
+"881",NA,NA,NA,NA,NA,"ZERO_RESULTS",880
+"882",34.0810268,-118.802018,"route","Newton Canyon Rd, Malibu, CA 90265, USA","route","OK",881
+"883",36.880581,-3.185691,"establishment","Cortijo Barranco Oscuro, 18440, Granada, Spain","establishment,food,point_of_interest","OK",882
+"884",36.6974604,-121.405214,"establishment","Mt Harlan, California 95023, USA","establishment,natural_feature","OK",883
+"885",46.227638,2.213749,"country","France","country,political","OK",884
+"886",43.706727,1.847706,"colloquial_area","La Côte de Lesparre, 81500 Labastide-Saint-Georges, France","colloquial_area,political","OK",885
+"887",46.1762609,9.8926869,"establishment","Via Panoramica, 298, 23020 Montagna In Valtellina SO, Italy","establishment,food,point_of_interest","OK",886
+"888",41.7590802,1.8316737,"route","Carrer Pla, 08272 Sant Fruitós de Bages, Barcelona, Spain","route","OK",887
+"889",-34.4897034,20.402376,"locality","Overberg DC, South Africa","locality,political","OK",888
+"890",43.1237992,6.2513309,"route","Rue de Provence, 83250 La Londe-les-Maures, France","route","OK",889
+"891",47.213041,-0.5296783,"establishment","Le Layon, France","establishment,natural_feature","OK",890
+"892",NA,NA,NA,NA,NA,"ZERO_RESULTS",891
+"893",38.674586,23.018732,"establishment","Χουλέβαινα, Atalanti 352 00, Greece","establishment,food,point_of_interest","OK",892
+"894",NA,NA,NA,NA,NA,"ZERO_RESULTS",893
+"895",37.6909682,-122.3107517,"establishment","San Francisco Bay, California, USA","establishment,natural_feature","OK",894
+"896",45.9595588,23.5663758,"locality","Sebeș, Romania","locality,political","OK",895
+"897",-36.7842847,145.1417222,"establishment","Lake Nagambie, Nagambie VIC 3608, Australia","establishment,natural_feature","OK",896
+"898",44.865492,0.5179295,"route","Route des Cotes de Pecharmant, 24100 Bergerac, France","route","OK",897
+"899",NA,NA,NA,NA,NA,"ZERO_RESULTS",898
+"900",38.5181549,-9.0154448,"establishment","R. José Augusto Coelho 11/13, 2925-942 Azeitão, Portugal","establishment,food,point_of_interest","OK",899
+"901",40.8176812,22.8527142,"colloquial_area","Macedonia Greece, Greece","colloquial_area,political","OK",900
+"902",47.9445331,-120.6749068,"administrative_area_level_2","Chelan County, WA, USA","administrative_area_level_2,political","OK",901
+"903",-36.0754119,146.9472741,"establishment","Riverina Hwy & Drome Street, East Albury NSW 2640, Australia","establishment,food,point_of_interest,restaurant","OK",902
+"904",38.9022048,-9.0397427,"locality","Alverca do Ribatejo, Portugal","locality,political","OK",903
+"905",33.6685798,-117.8636399,"establishment","4590 MacArthur Blvd #500, Newport Beach, CA 92660, USA","establishment,point_of_interest,real_estate_agency","OK",904
+"906",34.097753,-118.8274921,"establishment","Malibu, CA 90265, USA","establishment,point_of_interest","OK",905
+"907",47.165362,4.979823,"locality","Flagey-Echézeaux, France","locality,political","OK",906
+"908",46.8322485,4.7242918,"route","Grande Rue, 71640 Mercurey, France","route","OK",907
+"909",46.3519946,4.6983362,"route","Le Clos, 71960 Milly-Lamartine, France","route","OK",908
+"910",47.176617,4.962975,"locality","Vougeot, France","locality,political","OK",909
+"911",-37.1624826,140.9351108,"locality","Wrattonbully SA 5271, Australia","locality,political","OK",910
+"912",46.3385307,4.726553,"route","Route de Mâcon, 71960 La Roche-Vineuse, France","route","OK",911
+"913",NA,NA,NA,NA,NA,"ZERO_RESULTS",912
+"914",46.499495,4.79124,"establishment","Rue des Moines, Sagy-le-Haut, 71260 Cruzille, France","establishment,food,point_of_interest","OK",913
+"915",38.3408187,-122.4731735,"route","Moon Mountain Rd, Sonoma, CA 95476, USA","route","OK",914
+"916",NA,NA,NA,NA,NA,"ZERO_RESULTS",915
+"917",51.165691,10.451526,"country","Germany","country,political","OK",916
+"918",44.6688073,8.2585738,"locality","14051 Loazzolo AT, Italy","locality,political","OK",917
+"919",40.7450055,-123.8695086,"administrative_area_level_2","Humboldt County, CA, USA","administrative_area_level_2,political","OK",918
+"920",38.569441,-8.9016937,"locality","Palmela, Portugal","locality,political","OK",919
+"921",32.689741,35.241886,"route","Galil St, Migdal HaEmek, Israel","route","OK",920
+"922",NA,NA,NA,NA,NA,"ZERO_RESULTS",921
+"923",43.310567,-0.482417,"establishment","Chemin Cinquau, 64230 Artiguelouve, France","establishment,food,lodging,point_of_interest","OK",922
+"924",NA,NA,NA,NA,NA,"ZERO_RESULTS",923
+"925",45.7746752,14.2126578,"establishment","Tržaška cesta 1, 6230 Postojna, Slovenia","establishment,lodging,point_of_interest","OK",924
+"926",45.1,15.2000001,"country","Croatia","country,political","OK",925
+"927",-43.0548342,172.7612505,"locality","Waipara 7483, New Zealand","locality,political","OK",926
+"928",42.96958,10.828253,"bar","Fattoria Poggetti Località Cura Nuova, 58024 Massa Marittima GR, Italy","bar,establishment,food,point_of_interest","OK",927
+"929",38.2998429,-122.475054,"electronics_store","Sonoma, CA, USA","electronics_store,establishment,home_goods_store,point_of_interest,store","OK",928
+"930",42.811253,2.593028,"locality","66460 Maury, France","locality,political","OK",929
+"931",42.7468364,2.903213,"route","Rue du Muscat, 66380 Pia, France","route","OK",930
+"932",43.7388922,11.3860171,"locality","50067 Montecucco FI, Italy","locality,political","OK",931
+"933",NA,NA,NA,NA,NA,"ZERO_RESULTS",932
+"934",-24.3559,30.6482544,"establishment","Olifantsrivier, South Africa","establishment,natural_feature","OK",933
+"935",-34.9011127,-56.1645314,"locality","Montevideo, Montevideo Department, Uruguay","locality,political","OK",934
+"936",37.3336581,-121.8907041,"administrative_area_level_2","Santa Clara County, CA, USA","administrative_area_level_2,political","OK",935
+"937",47.8564743,-4.0195905,"campground","Campsite L'Atlantique, Hent Kerbader, 29170 Fouesnant, France","campground,establishment,lodging,park,point_of_interest,real_estate_agency,rv_park,travel_agency","OK",936
+"938",-21.8420605,-45.4121561,"administrative_area_level_2","Campanha - State of Minas Gerais, 37400-000, Brazil","administrative_area_level_2,political","OK",937
+"939",31.046051,34.851612,"country","Israel","country,political","OK",938
+"940",NA,NA,NA,NA,NA,"ZERO_RESULTS",939
+"941",NA,NA,NA,NA,NA,"ZERO_RESULTS",940
+"942",45.514997,6.0194833,"establishment","1327 route du Coteau de Torméry, 73800 Chignin, France","establishment,food,point_of_interest","OK",941
+"943",46.0412957,4.635594,"route","Place Jean Blanc, 69460 Salles-Arbuissonnas-en-Beaujolais, France","route","OK",942
+"944",46.339224,4.727428,"establishment","Chemin de la Grange du Dîme, 71960 La Roche-Vineuse, France","establishment,food,point_of_interest","OK",943
+"945",NA,NA,NA,NA,NA,"ZERO_RESULTS",944
+"946",43.010788,1.434564,"colloquial_area","Côtes, 09240 La Bastide-de-Sérou, France","colloquial_area,political","OK",945
+"947",47.8650427,16.7775594,"establishment","Lake Neusiedl","establishment,natural_feature","OK",946
+"948",46.2677996,4.7296544,"locality","71570 Leynes, France","locality,political","OK",947
+"949",47.162494,19.5033041,"country","Hungary","country,political","OK",948
+"950",47.097651,4.434618,"colloquial_area","En Duras, 21230 Magnien, France","colloquial_area,political","OK",949
+"951",42.893306,2.978041,"locality","11510 Fitou, France","locality,political","OK",950
+"952",48.8739196,2.3280831,"clothing_store","Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris, France","clothing_store,establishment,point_of_interest,store","OK",951
+"953",47.7236535,-122.4713352,"establishment","Puget Sound, Washington, USA","establishment,natural_feature","OK",952
+"954",NA,NA,NA,NA,NA,"ZERO_RESULTS",953
+"955",NA,NA,NA,NA,NA,"ZERO_RESULTS",954
+"956",47.073505,4.875509,"route","Rue des Vergennes, 21550 Ladoix-Serrigny, France","route","OK",955
+"957",47.2266864,4.9790587,"establishment","53 Route de Beaune, 21220 Gevrey-Chambertin, France","establishment,food,liquor_store,lodging,point_of_interest,store","OK",956
+"958",44.5319723,7.9497482,"locality","12063 Dogliani, Province of Cuneo, Italy","locality,political","OK",957
+"959",47.4503819,-0.5709138,"route","Place du Village Anjou, 49000 Angers, France","route","OK",958
+"960",44.632311,-0.316283,"establishment","D10 Route de Langon, 33410 Cadillac, France","establishment,liquor_store,museum,point_of_interest,store","OK",959
+"961",43.5861991,4.1973077,"establishment","CD979, Mas Cambon, Route de Saint Laurent d'Aigouze, 30220 Aigues-Mortes, France","establishment,food,lodging,place_of_worship,point_of_interest,restaurant,university","OK",960
+"962",NA,NA,NA,NA,NA,"ZERO_RESULTS",961
+"963",41.1297613,14.7826208,"locality","82100 Benevento, Province of Benevento, Italy","locality,political","OK",962
+"964",45.6833333,11.2166667,"establishment","Monti Lessini, 36076 Recoaro Terme, Province of Vicenza, Italy","establishment,natural_feature","OK",963
+"965",-35.2462077,138.55089,"establishment","281 Main Rd, McLaren Vale SA 5171, Australia","establishment,food,liquor_store,point_of_interest,store","OK",964
+"966",NA,NA,NA,NA,NA,"ZERO_RESULTS",965
+"967",-33.5769721,-70.6782097,"route","Lolol, El Bosque, Región Metropolitana, Chile","route","OK",966
+"968",-33.4553715,-70.5764446,"route","Cauquenes, Ñuñoa, Región Metropolitana, Chile","route","OK",967
+"969",40.7028666,17.3392645,"locality","74015 Martina Franca, Province of Taranto, Italy","locality,political","OK",968
+"970",NA,NA,NA,NA,NA,"ZERO_RESULTS",969
+"971",42.6346747,3.0306154,"establishment","6 Rue Mirabeau, 66750 Saint-Cyprien, France","establishment,health,point_of_interest","OK",970
+"972",NA,NA,NA,NA,NA,"ZERO_RESULTS",971
+"973",38.2529705,-122.1621917,"locality","Green Valley, CA 94534, USA","locality,political","OK",972
+"974",NA,NA,NA,NA,NA,"ZERO_RESULTS",973
+"975",40.6569836,14.5422225,"establishment","Sorrento Peninsula, Italy","establishment,natural_feature","OK",974
+"976",39.59389,-121.52833,"locality","Oregon City, CA 95965, USA","locality,political","OK",975
+"977",38.9582307,-122.6263728,"locality","Clearlake, CA, USA","locality,political","OK",976
+"978",-25.7740895,28.2204987,"political","Groenkloof, Pretoria, 0027, South Africa","political,sublocality,sublocality_level_1","OK",977
+"979",32.9918817,-117.0151736,"route","High Valley Rd, Poway, CA 92064, USA","route","OK",978
+"980",NA,NA,NA,NA,NA,"ZERO_RESULTS",979
+"981",NA,NA,NA,NA,NA,"ZERO_RESULTS",980
+"982",NA,NA,NA,NA,NA,"ZERO_RESULTS",981
+"983",39.6280198,-1.1645428,"route","Calle Levante, 46312 Utiel, Valencia, Spain","route","OK",982
+"984",39.0574004,-9.0063654,"administrative_area_level_2","Alenquer, 2580, Portugal","administrative_area_level_2,political","OK",983
+"985",45.464032,11.236863,"establishment","Via Libertà, 55, 37038 Soave VR, Italy","establishment,food,point_of_interest","OK",984
+"986",45.999672,13.5307396,"route","Goriška cesta, 5212 Dobrovo v Brdih, Slovenia","route","OK",985
+"987",44.1735518,28.4105479,"locality","Murfatlar, Romania","locality,political","OK",986
+"988",38.2172561,-122.2730219,"airport","Napa County Airport, 2030 Airport Rd, Napa, CA 94558, USA","airport,establishment,point_of_interest","OK",987
+"989",41.271299,-7.50456,"establishment","Lugar dos Pousados, 5070-265 Favaios, Portugal","establishment,food,point_of_interest","OK",988
+"990",45.5469616,-123.1386021,"administrative_area_level_2","Washington County, OR, USA","administrative_area_level_2,political","OK",989
+"991",-40.900557,174.885971,"country","New Zealand","country,political","OK",990
+"992",46.955634,4.721697,"political","Gamay, 21190 Saint-Aubin, France","political,sublocality,sublocality_level_1","OK",991
+"993",45.6120081,10.0260956,"establishment","Corte Franca 25040, BS, Italy","establishment,point_of_interest","OK",992
+"994",33.6340691,-112.2353196,"establishment","16160 N 83rd Ave, Peoria, AZ 85382, USA","establishment,food,point_of_interest,restaurant","OK",993
+"995",-34.3486042,-56.7075141,"locality","San José de Mayo, San José Department, Uruguay","locality,political","OK",994
+"996",NA,NA,NA,NA,NA,"ZERO_RESULTS",995
+"997",43.8514116,10.624758,"locality","55016 Palazzo Rosso LU, Italy","locality,political","OK",996
+"998",44.8533003,-0.0436106,"establishment","6 Allée de la République, 33350 Castillon-la-Bataille, France","establishment,liquor_store,point_of_interest,store,travel_agency","OK",997
+"999",38.25552,-122.3513889,"establishment","1240 Duhig Rd, Napa, CA 94559, USA","establishment,food,liquor_store,point_of_interest,store","OK",998
+"1000",-34.9172455,138.8315666,"locality","Lenswood SA 5240, Australia","locality,political","OK",999
+"1001",47.02603,4.840004,"locality","21200 Beaune, France","locality,political","OK",1000
+"1002",47.4908629,-0.5045144,"route","Rue Rose Avalanche, 49480 Saint-Sylvain-d'Anjou, France","route","OK",1001
+"1003",NA,NA,NA,NA,NA,"ZERO_RESULTS",1002
+"1004",47.6584551,1.2631801,"route","Impasse du Coteau, 41330 La Chapelle-Vendômoise, France","route","OK",1003
+"1005",NA,NA,NA,NA,NA,"ZERO_RESULTS",1004
+"1006",-29.1778957,-51.5672795,"locality","Vale dos Vinhedos, Bento Gonçalves - RS, 95700-000, Brazil","locality,political","OK",1005
+"1007",43.7793165,11.2407852,"establishment","Viale Belfiore, 9, 50144 Firenze FI, Italy","establishment,food,point_of_interest","OK",1006
+"1008",47.49497,16.50879,"administrative_area_level_2","Oberpullendorf District, Austria","administrative_area_level_2,political","OK",1007
+"1009",NA,NA,NA,NA,NA,"ZERO_RESULTS",1008
+"1010",36.1784676,-80.8689607,"colloquial_area","Swan Creek, South Knobs, NC 27020, USA","colloquial_area,political","OK",1009
+"1011",NA,NA,NA,NA,NA,"ZERO_RESULTS",1010
+"1012",-34.6366583,-71.3501388,"route","Apalta, Santa Cruz, VI Región, Chile","route","OK",1011
+"1013",-32.6144566,149.5733291,"locality","Mudgee NSW 2850, Australia","locality,political","OK",1012
+"1014",-33.283333,149.1,"locality","Orange NSW 2800, Australia","locality,political","OK",1013
+"1015",-31.2532183,146.921099,"administrative_area_level_1","New South Wales, Australia","administrative_area_level_1,political","OK",1014
+"1016",NA,NA,NA,NA,NA,"ZERO_RESULTS",1015
+"1017",NA,NA,NA,NA,NA,"ZERO_RESULTS",1016
+"1018",NA,NA,NA,NA,NA,"ZERO_RESULTS",1017
+"1019",47.388264,0.827383,"locality","37270 Montlouis-sur-Loire, France","locality,political","OK",1018
+"1020",44.464319,1.66836,"establishment","Rue de la Peyrolerie, 46330 Saint-Cirq-Lapopie, France","establishment,food,grocery_or_supermarket,point_of_interest,store","OK",1019
+"1021",-38.1635613,-72.5204827,"administrative_area_level_2","Malleco Province, Araucania, Chile","administrative_area_level_2,political","OK",1020
+"1022",41.8962899,12.4826181,"route","Piazza Venezia, Roma RM, Italy","route","OK",1021
+"1023",NA,NA,NA,NA,NA,"ZERO_RESULTS",1022
+"1024",NA,NA,NA,NA,NA,"ZERO_RESULTS",1023
+"1025",NA,NA,NA,NA,NA,"ZERO_RESULTS",1024
+"1026",40.7302327,13.8942535,"establishment","Mount Epomeo, 80074 Casamicciola Terme, Metropolitan City of Naples, Italy","establishment,natural_feature","OK",1025
+"1027",41.2833333,13.9666667,"establishment","Roccamonfina, 81035 Roccamonfina, Province of Caserta, Italy","establishment,natural_feature","OK",1026
+"1028",45.269046,-0.523209,"locality","33860 Marcillac, France","locality,political","OK",1027
+"1029",42.0002101,-4.5117114,"establishment","Pol. Ind. El Vial, C/ Andalucía, 64, 34004 Palencia, Spain","establishment,furniture_store,home_goods_store,point_of_interest,store","OK",1028
+"1030",35.5312236,-120.6308527,"route","S El Pomar Rd, Templeton, CA 93465, USA","route","OK",1029
+"1031",41.3348677,13.9492051,"administrative_area_level_3","81044 Galluccio, Province of Caserta, Italy","administrative_area_level_3,political","OK",1030
+"1032",47.874593,3.980885,"locality","89700 Épineuil, France","locality,political","OK",1031
+"1033",40.6794227,14.8641034,"establishment","Via Nido, 84099 S. Cipriano Picentino SA, Italy","establishment,food,point_of_interest","OK",1032
+"1034",NA,NA,NA,NA,NA,"ZERO_RESULTS",1033
+"1035",46.1904614,7.5449226,"administrative_area_level_1","Valais, Switzerland","administrative_area_level_1,political","OK",1034
+"1036",38.029655,-119.9740534,"administrative_area_level_2","Tuolumne County, CA, USA","administrative_area_level_2,political","OK",1035
+"1037",NA,NA,NA,NA,NA,"ZERO_RESULTS",1036
+"1038",-31.6004795,-71.5189767,"establishment","Choapa River, Canela, Coquimbo Region, Chile","establishment,natural_feature","OK",1037
+"1039",28.2903301,-81.3592502,"establishment","e 34744, 2095 E Irlo Bronson Memorial Hwy, Kissimmee, FL 34744, United States","establishment,food,point_of_interest,restaurant","OK",1038
+"1040",35.3979844,-120.613122,"establishment","9000 Yerba Buena Ave, Santa Margarita, CA 93453, USA","establishment,food,point_of_interest","OK",1039
+"1041",NA,NA,NA,NA,NA,"ZERO_RESULTS",1040
+"1042",43.8818198,-0.5192546,"locality","40280 Saint-Pierre-du-Mont, France","locality,political","OK",1041
+"1043",NA,NA,NA,NA,NA,"ZERO_RESULTS",1042
+"1044",46.4805876,4.8158278,"establishment","995 Rue des Charmes, 71260 Lugny, France","establishment,point_of_interest","OK",1043
+"1045",44.639077,8.668672,"establishment","Via Castello, 1, 15070 Tagliolo Monferrato AL, Italy","establishment,food,lodging,point_of_interest","OK",1044
+"1046",42.315407,43.356892,"country","Georgia","country,political","OK",1045
+"1047",39.9333635,32.8597419,"locality","Ankara, Turkey","locality,political","OK",1046
+"1048",34.0259216,-118.7797571,"locality","Malibu, CA, USA","locality,political","OK",1047
+"1049",46.875041,4.740823,"locality","71150 Rully, France","locality,political","OK",1048
+"1050",37.7547857,26.9777701,"establishment","Samos, Greece","establishment,natural_feature","OK",1049
+"1051",45.1847248,9.1582069,"locality","27100 Pavia, Province of Pavia, Italy","locality,political","OK",1050
+"1052",44.9007512,8.2064257,"locality","14100 Asti, Province of Asti, Italy","locality,political","OK",1051
+"1053",43.8007472,11.0146187,"administrative_area_level_3","Carmignano, Province of Prato, Italy","administrative_area_level_3,political","OK",1052
+"1054",49.6864728,8.3469239,"route","Mittelrheinstraße, 67550 Worms, Germany","route","OK",1053
+"1055",38.0523547,-1.6598746,"route","Calle Levante, 30180 Bullas, Murcia, Spain","route","OK",1054
+"1056",NA,NA,NA,NA,NA,"ZERO_RESULTS",1055
+"1057",47.166,16.44581,"locality","7474 Deutsch Schützen, Austria","locality,political","OK",1056
+"1058",38.288579,-76.4792473,"route","McDowell Ln, Lexington Park, MD 20653, USA","route","OK",1057
+"1059",-34.9984205,-71.3445822,"locality","Sagrada Familia, Maule Region, Chile","locality,political","OK",1058
+"1060",NA,NA,NA,NA,NA,"ZERO_RESULTS",1059
+"1061",40.288587,15.3608494,"establishment","Cilento and Vallo di Diano National Park, Provincia di Salerno, Italy","establishment,park,point_of_interest","OK",1060
+"1062",NA,NA,NA,NA,NA,"ZERO_RESULTS",1061
+"1063",36.0223527,-81.4900963,"locality","Yadkin Valley, NC 28645, USA","locality,political","OK",1062
+"1064",40.6333389,14.6028963,"establishment","84011 Amalfi SA, Italy","establishment,point_of_interest","OK",1063
+"1065",47.516231,14.550072,"country","Austria","country,political","OK",1064
+"1066",43.3437748,17.8077578,"locality","Mostar 88000, Bosnia and Herzegovina","locality,political","OK",1065
+"1067",41.6611277,-91.5301683,"locality","Iowa City, IA, USA","locality,political","OK",1066
+"1068",NA,NA,NA,NA,NA,"ZERO_RESULTS",1067
+"1069",NA,NA,NA,NA,NA,"ZERO_RESULTS",1068
+"1070",43.6376174,-123.568152,"locality","Elkton, OR 97436, USA","locality,political","OK",1069
+"1071",NA,NA,NA,NA,NA,"ZERO_RESULTS",1070
+"1072",-33.2872221,19.1434108,"locality","Tulbagh, 6820, South Africa","locality,political","OK",1071
+"1073",-32.5891202,19.0118251,"administrative_area_level_3","Citrusdal, South Africa","administrative_area_level_3,political","OK",1072
+"1074",-34.4116592,19.2065868,"political","Hemel en Aarde, Hermanus, 7200, South Africa","political,sublocality,sublocality_level_1","OK",1073
+"1075",-21.0593815,55.2272854,"route","Rue Ceres, Saint-Gilles les Bains, Reunion","route","OK",1074
+"1076",-34.2254252,19.1969241,"locality","Bot River, South Africa","locality,political","OK",1075
+"1077",46.998258,4.708748,"locality","21190 Saint-Romain, France","locality,political","OK",1076
+"1078",45.4518472,10.6415349,"establishment","Via 1866, 19, 25019 località Rovizza di Sirmione BS, Italy","establishment,food,lodging,point_of_interest","OK",1077
+"1079",NA,NA,NA,NA,NA,"ZERO_RESULTS",1078
+"1080",NA,NA,NA,NA,NA,"ZERO_RESULTS",1079
+"1081",43.3841747,2.832707,"establishment","34360 Saint-Jean-de-Minervois, France","establishment,food,point_of_interest","OK",1080
+"1082",42.48343,3.128874,"locality","66650 Banyuls-sur-Mer, France","locality,political","OK",1081
+"1083",41.9006087,12.4802031,"city_hall","Piazza Colonna, 355, 00187 Roma RM, Italy","city_hall,establishment,local_government_office,point_of_interest","OK",1082
+"1084",38.2466395,21.734574,"locality","Patras, Greece","locality,political","OK",1083
+"1085",34.4217857,-119.7268477,"route","Monterey St, Santa Barbara, CA 93101, USA","route","OK",1084
+"1086",NA,NA,NA,NA,NA,"ZERO_RESULTS",1085
+"1087",44.0845688,12.3542982,"establishment","Rubicon River, Italy","establishment,natural_feature","OK",1086
+"1088",NA,NA,NA,NA,NA,"ZERO_RESULTS",1087
+"1089",36.9809152,14.5506803,"route","Via del Frappato, 97019 Vittoria RG, Italy","route","OK",1088
+"1090",44.1298909,5.0236471,"establishment","Chemin Durban, 84190 Beaumes-de-Venise, France","establishment,food,point_of_interest","OK",1089
+"1091",38.0022977,22.5245093,"administrative_area_level_3","Corinthia, Greece","administrative_area_level_3,political","OK",1090
+"1092",39.2052632,-1.3081535,"establishment","Calle Diseminados, 5, 02212, Albacete, Spain","establishment,point_of_interest","OK",1091
+"1093",38.4593019,-122.7171838,"route","Mendocino Ave, Santa Rosa, CA, USA","route","OK",1092
+"1094",39.074208,21.824312,"country","Greece","country,political","OK",1093
+"1095",46.4893405,4.913118,"route","Voie Bleue (Tournus - Mâcon), 71700 Uchizy, France","route","OK",1094
+"1096",NA,NA,NA,NA,NA,"ZERO_RESULTS",1095
+"1097",45.4223008,11.2485921,"establishment","Via Giulio Camuzzoni, 3, 37038 Soave VR, Italy","establishment,food,point_of_interest","OK",1096
+"1098",-35.5364676,-71.4893705,"locality","San Clemente, Maule Region, Chile","locality,political","OK",1097
+"1099",47.037338,4.820771,"political","Sur les Grèves, 21200 Beaune, France","political,sublocality,sublocality_level_1","OK",1098
+"1100",45.0199283,8.366518,"establishment","Ca Cima, 1, 15049 Vignale Monferrato AL, Italy","establishment,lodging,point_of_interest","OK",1099
+"1101",40.2696379,18.0604887,"locality","73043 Copertino LE, Italy","locality,political","OK",1100
+"1102",37.398829,-122.1346859,"neighborhood","Alta Mesa, Palo Alto, CA 94304, USA","neighborhood,political","OK",1101
+"1103",43.746498,6.098248,"campground","Camping Tohapi The Coteau de la Marine ****, Coteau de la Marine, 04500 Montagnac-Montpezat, France","campground,establishment,lodging,park,point_of_interest,rv_park","OK",1102
+"1104",45.630613,18.8133484,"locality","31327, Podunavlje, Croatia","locality,political","OK",1103
+"1105",44.0722489,4.7396417,"route","Rue du Rhône, 30150 Montfaucon, France","route","OK",1104
+"1106",38.9778347,-122.8394785,"establishment","3865 Main St, Kelseyville, CA 95451, USA","establishment,local_government_office,point_of_interest","OK",1105
+"1107",NA,NA,NA,NA,NA,"ZERO_RESULTS",1106
+"1108",40.7845262,21.4131222,"locality","Florina 531 00, Greece","locality,political","OK",1107
+"1109",36.1288547,-121.0204672,"locality","San Lucas, CA 93954, USA","locality,political","OK",1108
+"1110",-33.7309374,-70.7423218,"locality","Buin, Santiago Metropolitan Region, Chile","locality,political","OK",1109
+"1111",53.7266683,-127.6476205,"administrative_area_level_1","British Columbia, Canada","administrative_area_level_1,political","OK",1110
+"1112",NA,NA,NA,NA,NA,"ZERO_RESULTS",1111
+"1113",NA,NA,NA,NA,NA,"ZERO_RESULTS",1112
+"1114",38.9714548,-122.6557968,"route","Sonoma Ave, Clearlake, CA 95422, USA","route","OK",1113
+"1115",43.5912356,3.2583626,"colloquial_area","Languedoc-Roussillon, France","colloquial_area,political","OK",1114
+"1116",43.6962677,-86.4545969,"establishment","7045 W Deer Rd, Mears, MI 49436, USA","establishment,food,point_of_interest,school","OK",1115
+"1117",NA,NA,NA,NA,NA,"ZERO_RESULTS",1116
+"1118",NA,NA,NA,NA,NA,"ZERO_RESULTS",1117
+"1119",43.1485716,2.79395,"route","Avenue des Corbières, 11200 Boutenac, France","route","OK",1118
+"1120",NA,NA,NA,NA,NA,"ZERO_RESULTS",1119
+"1121",NA,NA,NA,NA,NA,"ZERO_RESULTS",1120
+"1122",48.379433,31.1655799,"country","Ukraine","country,political","OK",1121
+"1123",40.4172871,-82.907123,"administrative_area_level_1","Ohio, USA","administrative_area_level_1,political","OK",1122
+"1124",43.287046,2.888213,"campground","Camping Val de Cesse, Lieu-dit La Garenne, 11120 Mirepeisset, France","campground,establishment,lodging,park,point_of_interest","OK",1123
+"1125",44.800008,0.326801,"locality","24240 Saussignac, France","locality,political","OK",1124
+"1126",43.053289,2.218142,"locality","11300 Limoux, France","locality,political","OK",1125
+"1127",38.5679312,-8.83604,"route","R. dos Trabalhadores da Terra, 2950-035 Palmela, Portugal","route","OK",1126
+"1128",35.6322025,-120.7019661,"route","Highland Park Dr, Paso Robles, CA 93446, USA","route","OK",1127
+"1129",40.421784,-3.676889,"establishment","Calle O'Donnell 27, 1º, 28009 Madrid, Spain","establishment,point_of_interest","OK",1128
+"1130",44.883459,8.9742572,"establishment","Piazza Capsoni, 8, 15059 Monleale AL, Italy","establishment,food,point_of_interest","OK",1129
+"1131",43.8239285,10.9953269,"bar","Via Capezzana, 100, 59015 Carmignano PO, Italy","bar,establishment,food,liquor_store,lodging,point_of_interest,restaurant,store","OK",1130
+"1132",NA,NA,NA,NA,NA,"ZERO_RESULTS",1131
+"1133",36.6061215,-121.8416035,"route","Sonoma Ave, Seaside, CA 93955, USA","route","OK",1132
+"1134",46.2828245,4.7805414,"route","Rue Pouilly Loché, 71000 Mâcon, France","route","OK",1133
+"1135",-34.563792,-71.401691,"establishment","Camino Isla de Yáquil s/N, Palmilla, VI Región, Chile","establishment,food,point_of_interest","OK",1134
+"1136",36.8924433,15.0651945,"locality","96017 Noto SR, Italy","locality,political","OK",1135
+"1137",40.827,14.139,"establishment","Phlegraean Fields, 80078 Pozzuoli, Metropolitan City of Naples, Italy","establishment,natural_feature","OK",1136
+"1138",-36.7570157,144.2793906,"locality","Bendigo VIC 3550, Australia","locality,political","OK",1137
+"1139",NA,NA,NA,NA,NA,"ZERO_RESULTS",1138
+"1140",40.7601055,-73.9892498,"bar","330 W 46th St, New York, NY 10036, USA","bar,establishment,food,point_of_interest,restaurant","OK",1139
+"1141",NA,NA,NA,NA,NA,"ZERO_RESULTS",1140
+"1142",40.7252188,-73.9831311,"establishment","513 E 6th St, New York, NY 10009, USA","establishment,food,point_of_interest,restaurant","OK",1141
+"1143",-33.6929187,19.3210622,"establishment","Rawsonville, South Africa","establishment,point_of_interest","OK",1142
+"1144",NA,NA,NA,NA,NA,"ZERO_RESULTS",1143
+"1145",NA,NA,NA,NA,NA,"ZERO_RESULTS",1144
+"1146",NA,NA,NA,NA,NA,"ZERO_RESULTS",1145
+"1147",NA,NA,NA,NA,NA,"ZERO_RESULTS",1146
+"1148",43.817748,11.5481573,"locality","50068 Pomino, Metropolitan City of Florence, Italy","locality,political","OK",1147
+"1149",45.4881539,4.8068486,"establishment","5 Route de la Taquière, 69420 Ampuis, France","establishment,food,point_of_interest","OK",1148
+"1150",44.5588028,-72.5778415,"administrative_area_level_1","Vermont, USA","administrative_area_level_1,political","OK",1149
+"1151",NA,NA,NA,NA,NA,"ZERO_RESULTS",1150
+"1152",45.4681,10.1301,"establishment","Monte Netto, 25020 Capriano del Colle BS, Italy","establishment,natural_feature","OK",1151
+"1153",45.4790671,9.8452433,"administrative_area_level_1","Lombardy, Italy","administrative_area_level_1,political","OK",1152
+"1154",NA,NA,NA,NA,NA,"ZERO_RESULTS",1153
+"1155",47.163708,4.517347,"locality","21230 Musigny, France","locality,political","OK",1154
+"1156",47.225962,4.968739,"locality","21220 Gevrey-Chambertin, France","locality,political","OK",1155
+"1157",46.7631315,4.7105267,"route","Le Clos Saint-Pierre, 71390 Saint-Désert, France","route","OK",1156
+"1158",38.578391,14.837047,"establishment","Via Umberto I, 9, 98050 Malfa ME, Italy","establishment,food,point_of_interest","OK",1157
+"1159",46.818188,8.227512,"country","Switzerland","country,political","OK",1158
+"1160",NA,NA,NA,NA,NA,"ZERO_RESULTS",1159
+"1161",-44.9873854,170.6015009,"administrative_area_level_2","Waitaki District, Otago, New Zealand","administrative_area_level_2,political","OK",1160
+"1162",47.9025348,20.3772284,"locality","Eger, Hungary","locality,political","OK",1161
+"1163",47.0525047,4.3837215,"colloquial_area","Burgundy, France","colloquial_area,political","OK",1162
+"1164",33.0155854,35.784354,"administrative_area_level_2","Golan","administrative_area_level_2,political","OK",1163
+"1165",NA,NA,NA,NA,NA,"ZERO_RESULTS",1164
+"1166",34.3704884,-119.1390642,"administrative_area_level_2","Ventura County, CA, USA","administrative_area_level_2,political","OK",1165
+"1167",45.1570803,19.7093272,"establishment","Fruška Gora","establishment,natural_feature","OK",1166
+"1168",-33.6666209,18.5811957,"locality","Philadelphia, South Africa","locality,political","OK",1167
+"1169",47.7922734,18.5974801,"locality","943 52 Mužla, Slovakia","locality,political","OK",1168
+"1170",45.807568,12.497794,"establishment","Via Baite, 14, 31046 Oderzo TV, Italy","establishment,food,point_of_interest","OK",1169
+"1171",45.8866683,12.2890294,"route","Via dei Colli, 31015 Conegliano TV, Italy","route","OK",1170
+"1172",43.4941415,11.578123,"establishment","Via Rossinello e Campolucci, 79, 52025 Montevarchi (Arezzo) Italia, Italy","establishment,food,point_of_interest","OK",1171
+"1173",41.9470179,-7.4492396,"locality","32619 Monterrei, Ourense, Spain","locality,political","OK",1172
+"1174",39.2173837,-123.171699,"establishment","Lake Mendocino, California 95482, USA","establishment,natural_feature","OK",1173
+"1175",47.8833333,19.95,"establishment","Gyöngyössolymos, Mátra, 3231 Hungary","establishment,natural_feature","OK",1174
+"1176",45.575006,8.2046146,"establishment","Via IV Novembre, 128/130, 13853 Lessona BI, Italy","establishment,food,point_of_interest","OK",1175
+"1177",36.9578731,-122.0301661,"route","Monterey St, Santa Cruz, CA 95060, USA","route","OK",1176
+"1178",-33.6793441,-70.5831069,"locality","Pirque, Santiago Metropolitan Region, Chile","locality,political","OK",1177
+"1179",NA,NA,NA,NA,NA,"ZERO_RESULTS",1178
+"1180",35.7595731,-79.0192997,"administrative_area_level_1","North Carolina, USA","administrative_area_level_1,political","OK",1179
+"1181",NA,NA,NA,NA,NA,"ZERO_RESULTS",1180
+"1182",35.5417715,-120.8156905,"route","York Mountain Rd, Templeton, CA 93465, USA","route","OK",1181
+"1183",47.413326,0.984407,"locality","37400 Amboise, France","locality,political","OK",1182
+"1184",30.7140861,34.8757476,"establishment","Negev","establishment,natural_feature","OK",1183
+"1185",NA,NA,NA,NA,NA,"ZERO_RESULTS",1184
+"1186",NA,NA,NA,NA,NA,"ZERO_RESULTS",1185
+"1187",44.504311,11.3411862,"establishment","Via Giovanni Amendola, 11, 40121 Bologna BO, Italy","establishment,lodging,point_of_interest","OK",1186
+"1188",NA,NA,NA,NA,NA,"ZERO_RESULTS",1187
+"1189",NA,NA,NA,NA,NA,"ZERO_RESULTS",1188
+"1190",47.713982,3.665355,"locality","89290 Irancy, France","locality,political","OK",1189
+"1191",34.9219817,32.879425,"establishment","Troodos Mountains, Troodos, Cyprus","establishment,natural_feature","OK",1190
+"1192",NA,NA,NA,NA,NA,"ZERO_RESULTS",1191
+"1193",-36.6972268,174.7144728,"route","E Coast Rd, Auckland, New Zealand","route","OK",1192
+"1194",41.8035292,12.5991077,"establishment","Via S. Francesco D'Assisi, 11, 00043 Ciampino RM, Italy","establishment,lodging,point_of_interest","OK",1193
+"1195",NA,NA,NA,NA,NA,"ZERO_RESULTS",1194
+"1196",38.0457568,23.8584737,"administrative_area_level_2","Attica, Greece","administrative_area_level_2,political","OK",1195
+"1197",47.3909714,-0.6438942,"route","Chemin de la Roche aux Moines, 49170 Savennières, France","route","OK",1196
+"1198",NA,NA,NA,NA,NA,"ZERO_RESULTS",1197
+"1199",43.326165,10.6265654,"locality","56040 Montescudaio PI, Italy","locality,political","OK",1198
+"1200",40.1758228,18.1724756,"locality","73013 Galatina LE, Italy","locality,political","OK",1199
+"1201",39.3811686,17.0673088,"locality","88813 Ciro' KR, Italy","locality,political","OK",1200
+"1202",NA,NA,NA,NA,NA,"ZERO_RESULTS",1201
+"1203",37.9783947,12.9686255,"locality","91011 Alcamo, Province of Trapani, Italy","locality,political","OK",1202
+"1204",NA,NA,NA,NA,NA,"ZERO_RESULTS",1203
+"1205",-34.6636109,-56.2230875,"locality","Progreso, Canelones Department, Uruguay","locality,political","OK",1204
+"1206",37.947427,40.1968218,"route","Elazığ Cd., Yenişehir/Diyarbakır, Turkey","route","OK",1205
+"1207",44.177717,0.515621,"locality","47310 Sainte-Colombe-en-Bruilhois, France","locality,political","OK",1206
+"1208",-33.9686662,18.9346166,"establishment","Jonkershoek Nature Reserve, Jonkershoek Road, Stellenbosch, 7600, South Africa","establishment,park,point_of_interest","OK",1207
+"1209",41.4351304,22.0028083,"establishment","29-ти Ноември, бр. 5, Kavadartsi 1430, Macedonia (FYROM)","establishment,food,point_of_interest","OK",1208
+"1210",-23.1635277,-47.3206587,"route","R. Trentino - Condomínio Fechado Piccolo Paese, Salto - SP, Brazil","route","OK",1209
+"1211",46.2787679,4.7703525,"political","Loché, 71000 Mâcon, France","political,sublocality,sublocality_level_1","OK",1210
+"1212",46.2739409,4.7777653,"establishment","2367 Route des Allemands, 71680 Vinzelles, France","establishment,point_of_interest","OK",1211
+"1213",43.4841431,11.2212111,"establishment","Riserva Naturale Bosco di S.Agnese, Località Granaio, 30, 53011 Castellina in Chianti SI, Italy","establishment,park,point_of_interest","OK",1212
+"1214",NA,NA,NA,NA,NA,"ZERO_RESULTS",1213
+"1215",45.5014397,9.1838224,"route","Via Orvieto, 20159 Milano MI, Italy","route","OK",1214
+"1216",NA,NA,NA,NA,NA,"ZERO_RESULTS",1215
+"1217",46.605172,-120.496273,"establishment","10 N 8th St, Yakima, WA 98901, USA","establishment,food,point_of_interest,travel_agency","OK",1216
+"1218",38.963745,35.243322,"country","Turkey","country,political","OK",1217
+"1219",NA,NA,NA,NA,NA,"ZERO_RESULTS",1218
+"1220",-36.8019237,175.1080146,"establishment","Waiheke Island, Auckland, New Zealand","establishment,natural_feature","OK",1219
+"1221",45.5095129,10.3811192,"locality","25080 Valtenesi BS, Italy","locality,political","OK",1220
+"1222",36.9613356,-120.0607176,"locality","Madera, CA, USA","locality,political","OK",1221
+"1223",44.4835493,4.3420229,"establishment","Ardèche, France","establishment,natural_feature","OK",1222
+"1224",-35.1164987,-71.2829759,"locality","Molina, Maule Region, Chile","locality,political","OK",1223
+"1225",-20.1215224,-40.3077898,"locality","Serra, State of Espírito Santo, Brazil","locality,political","OK",1224
+"1226",NA,NA,NA,NA,NA,"ZERO_RESULTS",1225
+"1227",46.309859,4.800459,"locality","Charnay-lès-Mâcon, France","locality,political","OK",1226
+"1228",38.291859,-122.4580356,"locality","Sonoma, CA 95476, USA","locality,political","OK",1227
+"1229",NA,NA,NA,NA,NA,"ZERO_RESULTS",1228
+"1230",-33.7725,19.67317,"establishment","South Africa","establishment,point_of_interest,school","OK",1229
+"1231",-34.63,117.666944,"locality","Mount Barker WA 6324, Australia","locality,political","OK",1230
+"1232",47.3034682,5.0213052,"route","Rue du Clos Vougeot, 21000 Dijon, France","route","OK",1231
+"1233",45.1096972,25.107144,"locality","Dealu, Romania","locality,political","OK",1232
+"1234",44.8204875,-0.5705455,"route","Rue de Cérons, 33800 Bordeaux, France","route","OK",1233
+"1235",47.213041,-0.5296783,"establishment","Le Layon, France","establishment,natural_feature","OK",1234
+"1236",40.851454,25.812034,"establishment","4th Km National Road Alexandroupolis - Thessaloniki, Alexandroupoli 681 00","establishment,lodging,point_of_interest,spa","OK",1235
+"1237",-34.9773498,-71.2153065,"route","Río Maipo, Curicó, VII Región, Chile","route","OK",1236
+"1238",46.0921099,14.5348417,"route","Štajerska cesta, Ljubljana, Slovenia","route","OK",1237
+"1239",NA,NA,NA,NA,NA,"ZERO_RESULTS",1238
+"1240",40.7990706,16.9221587,"locality","70023 Gioia del Colle, Metropolitan City of Bari, Italy","locality,political","OK",1239
+"1241",37.8393332,-84.2700179,"administrative_area_level_1","Kentucky, USA","administrative_area_level_1,political","OK",1240
+"1242",44.0003383,-77.2504937,"administrative_area_level_2","Prince Edward County, Prince Edward, ON, Canada","administrative_area_level_2,political","OK",1241
+"1243",37.6704091,-121.6978901,"establishment","3585 Greenville Rd #4, Livermore, CA 94550, USA","establishment,food,point_of_interest","OK",1242
+"1244",38.9249535,-6.3464125,"route","Calle Central, 06800 Mérida, Badajoz, Spain","route","OK",1243
+"1245",42.9712396,20.3606701,"locality","Župa, Serbia","locality,political","OK",1244
+"1246",NA,NA,NA,NA,NA,"ZERO_RESULTS",1245
+"1247",-35.5,138.5,"establishment","Fleurieu Peninsula, Inman Valley SA 5211, Australia","establishment,natural_feature","OK",1246
+"1248",34.0700545,-118.3835842,"doctor","200 N Robertson Blvd #303, Beverly Hills, CA 90211, USA","doctor,establishment,health,point_of_interest","OK",1247
+"1249",40.4162902,-3.7080922,"bar","Calle San Felipe Neri, 2, 28013 Madrid, Spain","bar,establishment,food,liquor_store,point_of_interest,store","OK",1248
+"1250",47.2840932,2.9514556,"establishment","Natural Reserve of the Loire Valley, 11 Rue Ferdinand Gambon, 58150 Pouilly-sur-Loire, France","establishment,park,point_of_interest","OK",1249
+"1251",45.3729347,10.7962865,"locality","37066 Custoza VR, Italy","locality,political","OK",1250
+"1252",NA,NA,NA,NA,NA,"ZERO_RESULTS",1251
+"1253",NA,NA,NA,NA,NA,"ZERO_RESULTS",1252
+"1254",NA,NA,NA,NA,NA,"ZERO_RESULTS",1253
+"1255",NA,NA,NA,NA,NA,"ZERO_RESULTS",1254
+"1256",39.7420182,9.1097161,"route","Via Sicilia, 08033 Isili CA, Italy","route","OK",1255
+"1257",43.045432,2.170958,"establishment","Graimenous, 11300 La Digne-d'Aval, France","establishment,food,point_of_interest","OK",1256
+"1258",34.7720133,32.4297369,"locality","Paphos, Cyprus","locality,political","OK",1257
+"1259",45.759439,11.984109,"establishment","Via Moresca, 136, 31031 Caerano di San Marco TV, Italy","establishment,food,point_of_interest","OK",1258
+"1260",45.4408474,12.3155151,"locality","Venice, Metropolitan City of Venice, Italy","locality,political","OK",1259
+"1261",36.6876016,23.056032,"locality","Monemvasia, Greece","locality,political","OK",1260
+"1262",46.3474326,18.7062293,"locality","Szekszárd, 7100 Hungary","locality,political","OK",1261
+"1263",37.9800433,-121.2963178,"route","E Sonoma Ave, Stockton, CA 95204, USA","route","OK",1262
+"1264",38.674816,39.222515,"locality","Elâzığ, Elâzığ Merkez/Elazığ, Turkey","locality,political","OK",1263
+"1265",38.720489,35.482597,"locality","Kayseri, Kayseri Province, Turkey","locality,political","OK",1264
+"1266",NA,NA,NA,NA,NA,"ZERO_RESULTS",1265
+"1267",45.3218166,8.8466236,"administrative_area_level_2","Province of Pavia, Italy","administrative_area_level_2,political","OK",1266
+"1268",45.7623333,11.690976,"administrative_area_level_1","Veneto, Italy","administrative_area_level_1,political","OK",1267
+"1269",NA,NA,NA,NA,NA,"ZERO_RESULTS",1268
+"1270",43.4775298,11.1483528,"route","Via della Collina, 53036 Poggibonsi SI, Italy","route","OK",1269
+"1271",NA,NA,NA,NA,NA,"ZERO_RESULTS",1270
+"1272",45.4258814,17.88337,"locality","Kutjevo, Croatia","locality,political","OK",1271
+"1273",45.553646,8.4604788,"locality","28073 Fara Novarese NO, Italy","locality,political","OK",1272
+"1274",NA,NA,NA,NA,NA,"ZERO_RESULTS",1273
+"1275",45.776854,12.708123,"establishment","Via Carline, 24, 30020 Pramaggiore VE, Italy","establishment,food,point_of_interest","OK",1274
+"1276",43.3877919,5.0217465,"route","Avenue de l'Île de France, 13117 Martigues, France","route","OK",1275
+"1277",NA,NA,NA,NA,NA,"ZERO_RESULTS",1276
+"1278",45.5272368,10.9403779,"route","Str. del Recioto, 37024 Negrar VR, Italy","route","OK",1277
+"1279",44.9252406,-0.3016586,"establishment","Château Vray Canon Boyer, D670, 33126 Saint-Michel-de-Fronsac, France","establishment,food,point_of_interest","OK",1278
+"1280",41.2531719,-72.966085,"route","Highland Ave, West Haven, CT 06516, USA","route","OK",1279
+"1281",40.042709,23.9060624,"administrative_area_level_4","Sithonia, Greece","administrative_area_level_4,political","OK",1280
+"1282",42.907149,-76.815443,"intersection","California Ave & River Rd, Seneca Falls, NY 13148, USA","intersection","OK",1281
+"1283",NA,NA,NA,NA,NA,"ZERO_RESULTS",1282
+"1284",NA,NA,NA,NA,NA,"ZERO_RESULTS",1283
+"1285",43.7577242,4.8512089,"establishment","Alpilles, 13210 Saint-Rémy-de-Provence, France","establishment,natural_feature","OK",1284
+"1286",44.0144936,6.2116438,"colloquial_area","Provence, France","colloquial_area,political","OK",1285
+"1287",-37.2108819,142.3979571,"establishment","Grampians National Park, Victoria, Australia","establishment,park,point_of_interest","OK",1286
+"1288",-35.4373405,138.7586849,"locality","Currency Creek SA 5214, Australia","locality,political","OK",1287
+"1289",NA,NA,NA,NA,NA,"ZERO_RESULTS",1288
+"1290",-35.1050727,-71.3032307,"route","Curicó, Molina, VII Región, Chile","route","OK",1289
+"1291",47.508733,1.457552,"locality","41700 Cour-Cheverny, France","locality,political","OK",1290
+"1292",47.105781,-1.413418,"establishment","36 La Pepière, 44690 Maisdon-sur-Sèvre, France","establishment,food,point_of_interest","OK",1291
+"1293",45.5333333,11,"establishment","Valpantena, 37023 Grezzana, Veronan maakunta, Italy","establishment,natural_feature","OK",1292
+"1294",43.1606595,2.8287912,"route","Hauterives le Haut, 11200 Ornaisons, France","route","OK",1293
+"1295",NA,NA,NA,NA,NA,"ZERO_RESULTS",1294
+"1296",39.9342662,-4.8958317,"route","Calle Central, 45694 Talavera la Nueva, Toledo, Spain","route","OK",1295
+"1297",-32.6189447,18.9587118,"establishment","N7 Piekenierskloof Pass, Citrusdal, 7340, South Africa","establishment,lodging,point_of_interest","OK",1296
+"1298",-34.583333,19.75,"locality","Elim, South Africa","locality,political","OK",1297
+"1299",-34.3204182,20.5811363,"locality","Malagas, Malgas, 7441, South Africa","locality,political","OK",1298
+"1300",38.3663664,23.0965064,"administrative_area_level_3","Boeotia, Greece","administrative_area_level_3,political","OK",1299
+"1301",37.0179538,-7.930834,"administrative_area_level_1","Faro District, Portugal","administrative_area_level_1,political","OK",1300
+"1302",NA,NA,NA,NA,NA,"ZERO_RESULTS",1301
+"1303",46.1633869,9.8447202,"establishment","Valtellina, 23100 Sondrio, Province of Sondrio, Italy","establishment,natural_feature","OK",1302
+"1304",37.9514823,23.6471889,"route","Retsina, Pireas, Greece","route","OK",1303
+"1305",39.6952629,3.0175712,"establishment","Majorca, Balearic Islands, Spain","establishment,natural_feature","OK",1304
+"1306",45.4794908,9.2169338,"route","Viale Abruzzi, Milano MI, Italy","route","OK",1305
+"1307",44.7069899,-67.77368,"route","Valley Rd, Columbia, ME 04623, USA","route","OK",1306
+"1308",40.6905178,21.6797432,"locality","Aminteo 532 00, Greece","locality,political","OK",1307
+"1309",-34.9749399,138.72829,"establishment","Piccadilly Valley, Piccadilly SA 5151, Australia","establishment,natural_feature","OK",1308
+"1310",-36.4983941,-72.7570024,"administrative_area_level_3","Coelemu, Región del Bío Bío, Chile","administrative_area_level_3,political","OK",1309
+"1311",39.1953619,-123.0400166,"route","Old Lake County Rd, Ukiah, CA 95482, USA","route","OK",1310
+"1312",47.00877,4.797562,"establishment","3 Route de Beaune, 21630 Pommard, France","establishment,food,liquor_store,point_of_interest,store","OK",1311
+"1313",45.3853823,-122.2326891,"car_dealer","41777 US-26, Sandy, OR 97055, USA","car_dealer,car_repair,establishment,point_of_interest,store","OK",1312
+"1314",46.9547994,4.7271266,"route","Route de Blagny, 21190 Saint-Aubin, France","route","OK",1313
+"1315",-29.9433616,30.9577655,"establishment","1474 S Coast Rd, Mobeni, Durban, 4060, South Africa","establishment,health,point_of_interest","OK",1314
+"1316",NA,NA,NA,NA,NA,"ZERO_RESULTS",1315
+"1317",45.1771983,-123.2395303,"administrative_area_level_2","Yamhill County, OR, USA","administrative_area_level_2,political","OK",1316
+"1318",NA,NA,NA,NA,NA,"ZERO_RESULTS",1317
+"1319",47.6816619,16.5844795,"locality","Sopron, Hungary","locality,political","OK",1318
+"1320",-36.3533015,146.6877247,"locality","Beechworth VIC 3747, Australia","locality,political","OK",1319
+"1321",NA,NA,NA,NA,NA,"ZERO_RESULTS",1320
+"1322",43.8534454,10.6657906,"administrative_area_level_3","55015 Montecarlo, Province of Lucca, Italy","administrative_area_level_3,political","OK",1321
+"1323",35.2779158,-120.6608726,"establishment","1334 Chorro St, San Luis Obispo, CA 93401, USA","establishment,lawyer,point_of_interest","OK",1322
+"1324",42.733883,25.48583,"country","Bulgaria","country,political","OK",1323
+"1325",37.7295385,13.1833552,"locality","90030 Contessa Entellina PA, Italy","locality,political","OK",1324
+"1326",NA,NA,NA,NA,NA,"ZERO_RESULTS",1325
+"1327",43.948571,15.5673225,"locality","Lake Vrana (Dalmatia), Croatia","locality,political","OK",1326
+"1328",44.6499881,8.0271337,"locality","12055 Diano d'Alba CN, Italy","locality,political","OK",1327
+"1329",40.89925,-0.364891,"establishment","44550 Alcorisa, Teruel, Spain","establishment,food,point_of_interest","OK",1328
+"1330",NA,NA,NA,NA,NA,"ZERO_RESULTS",1329
+"1331",NA,NA,NA,NA,NA,"ZERO_RESULTS",1330
+"1332",-29.0466808,21.8568586,"administrative_area_level_1","Northern Cape, South Africa","administrative_area_level_1,political","OK",1331
+"1333",-33.7721259,-69.0404345,"locality","San Carlos, Mendoza Province, Argentina","locality,political","OK",1332
+"1334",31.9685988,-99.9018131,"administrative_area_level_1","Texas, USA","administrative_area_level_1,political","OK",1333
+"1335",36.7754065,-6.3428582,"route","Calle Manzanilla, 11540 Sanlúcar de Barrameda, Cádiz, Spain","route","OK",1334
+"1336",NA,NA,NA,NA,NA,"ZERO_RESULTS",1335
+"1337",NA,NA,NA,NA,NA,"ZERO_RESULTS",1336
+"1338",43.1541875,16.6527099,"establishment","Hvar, Croatia","establishment,natural_feature","OK",1337
+"1339",38.1753675,20.5692179,"administrative_area_level_4","Cephalonia, Greece","administrative_area_level_4,political","OK",1338
+"1340",NA,NA,NA,NA,NA,"ZERO_RESULTS",1339
+"1341",-35.3396318,143.5524803,"locality","Swan Hill VIC 3585, Australia","locality,political","OK",1340
+"1342",NA,NA,NA,NA,NA,"ZERO_RESULTS",1341
+"1343",45.3360429,7.816159,"establishment","Cascina Castagnola, 2, 10090 San Giorgio Canavese TO, Italy","establishment,food,point_of_interest","OK",1342
+"1344",38.0325358,14.7726781,"locality","98070 Galati Mamertino ME, Italy","locality,political","OK",1343
+"1345",46.297042,4.7250059,"route","Solutré, 71960 Solutré-Pouilly, France","route","OK",1344
+"1346",NA,NA,NA,NA,NA,"ZERO_RESULTS",1345
+"1347",34.7071301,33.0226174,"locality","Limassol, Cyprus","locality,political","OK",1346
+"1348",43.9412045,-0.7532809,"administrative_area_level_2","Landes, France","administrative_area_level_2,political","OK",1347
+"1349",46.307452,4.738835,"establishment","Domaine des Poncetys, 71960 Davayé, France","establishment,point_of_interest,school","OK",1348
+"1350",NA,NA,NA,NA,NA,"ZERO_RESULTS",1349
+"1351",45.708245,11.5574545,"locality","36042 Breganze, Province of Vicenza, Italy","locality,political","OK",1350
+"1352",40.0982197,-122.174605,"administrative_area_level_2","Tehama County, CA, USA","administrative_area_level_2,political","OK",1351
+"1353",37.0754739,15.2865861,"locality","96100 Syracuse, Province of Syracuse, Italy","locality,political","OK",1352
+"1354",NA,NA,NA,NA,NA,"ZERO_RESULTS",1353
+"1355",40.7270164,13.9028656,"establishment","Ischia, Metropolitan City of Naples, Italy","establishment,natural_feature","OK",1354
+"1356",-35.4092603,143.762027,"establishment","Murray River, Australia","establishment,natural_feature","OK",1355
+"1357",44.9290335,4.8273718,"establishment","Chemin des Putiers, 07130 Saint-Péray, France","establishment,point_of_interest,store","OK",1356
+"1358",39.2656116,-4.1261705,"route","Calle Central, 13129 Piedralá, Cdad. Real, Spain","route","OK",1357
+"1359",NA,NA,NA,NA,NA,"ZERO_RESULTS",1358
+"1360",47.5532402,1.0105289,"colloquial_area","Loire Valley, France","colloquial_area,political","OK",1359
+"1361",45.5826302,7.8080102,"locality","10010 Carema TO, Italy","locality,political","OK",1360
+"1362",45.8939404,28.1890275,"locality","Cahul, Moldova","locality,political","OK",1361
+"1363",45.5172317,11.0229028,"establishment","Via Asiago, 1, 37023 Grezzana VR, Italy","establishment,food,point_of_interest","OK",1362
+"1364",37.1548247,25.0687356,"archipelago","Cyclades, Greece","archipelago,establishment,natural_feature","OK",1363
+"1365",33.0466939,-116.8591631,"establishment","416 Main St, Ramona, CA 92065, USA","establishment,lodging,point_of_interest","OK",1364
+"1366",38.596794,-122.582734,"route","Lake County Hwy, Calistoga, CA 94515, USA","route","OK",1365
+"1367",45.8998453,12.0401104,"establishment","Via Follo, 33, 31049 Santo Stefano, Valdobbiadene TV, Italy","establishment,food,point_of_interest","OK",1366
+"1368",NA,NA,NA,NA,NA,"ZERO_RESULTS",1367
+"1369",44.8500585,-0.5712937,"establishment","6 Parvis des Chartrons, 33000 Bordeaux, France","establishment,point_of_interest","OK",1368
+"1370",NA,NA,NA,NA,NA,"ZERO_RESULTS",1369
+"1371",46.992488,4.76562,"locality","21190 Monthelie, France","locality,political","OK",1370
+"1372",47.1980384,4.963521,"establishment","31 Rue Basse, 21220 Morey-Saint-Denis, France","establishment,food,point_of_interest","OK",1371
+"1373",47.1957705,4.9617952,"establishment","7 Route des Grands Crus, 21220 Morey-Saint-Denis, France","establishment,food,point_of_interest","OK",1372
+"1374",47.1586629,4.954222,"establishment","20 Rue de la Goillotte, 21700 Vosne-Romanée, France","establishment,food,point_of_interest","OK",1373
+"1375",-34.396587,20.826741,"establishment","Joseph Barry Drive, Witsand, 6666, South Africa","establishment,lodging,point_of_interest","OK",1374
+"1376",34.0489281,-111.0937311,"administrative_area_level_1","Arizona, USA","administrative_area_level_1,political","OK",1375
+"1377",43.1076511,-79.2871392,"establishment","Short Hills Provincial Park, Pelham Rd, Thorold, ON, Canada","establishment,park,point_of_interest","OK",1376
+"1378",NA,NA,NA,NA,NA,"ZERO_RESULTS",1377
+"1379",NA,NA,NA,NA,NA,"ZERO_RESULTS",1378
+"1380",43.661962,3.590696,"establishment","Haute vallée du Gassac, 34150 Aniane, France","establishment,food,point_of_interest","OK",1379
+"1381",46.331734,8.8004529,"administrative_area_level_1","Ticino, Switzerland","administrative_area_level_1,political","OK",1380
+"1382",NA,NA,NA,NA,NA,"ZERO_RESULTS",1381
+"1383",-33.9586148,18.7979659,"neighborhood","Digteby Estate, South Africa","neighborhood,political","OK",1382
+"1384",45.4857731,8.1648994,"locality","13873 Barbera BI, Italy","locality,political","OK",1383
+"1385",45.1854543,0.7250863,"colloquial_area","Périgord, France","colloquial_area,political","OK",1384
+"1386",36.778261,-119.4179324,"administrative_area_level_1","California, USA","administrative_area_level_1,political","OK",1385
+"1387",45.9975652,13.5270474,"administrative_area_level_2","Municipality of Brda, Slovenia","administrative_area_level_2,political","OK",1386
+"1388",42.9241904,17.3445579,"establishment","20245, Potomje, Croatia","establishment,lodging,point_of_interest","OK",1387
+"1389",29.0468535,-13.5899733,"establishment","Lanzarote, Las Palmas, Spain","establishment,natural_feature","OK",1388
+"1390",NA,NA,NA,NA,NA,"ZERO_RESULTS",1389
+"1391",31.791702,-7.09262,"country","Morocco","country,political","OK",1390
+"1392",38.2975381,-122.286865,"locality","Napa, CA, USA","locality,political","OK",1391
+"1393",38.1158729,21.9522491,"administrative_area_level_3","Achaea, Greece","administrative_area_level_3,political","OK",1392
+"1394",-33.9616762,18.7983485,"establishment","c/o R310 & Vlottenburg Road, Vlottenburg, Stellenbosch, 7604, South Africa","establishment,food,point_of_interest","OK",1393
+"1395",38.0380892,12.5873511,"locality","91016 Erice TP, Italy","locality,political","OK",1394
+"1396",43.7710513,11.2486208,"administrative_area_level_1","Tuscany, Italy","administrative_area_level_1,political","OK",1395
+"1397",49.1922372,-120.1272108,"establishment","Similkameen River","establishment,natural_feature","OK",1396
+"1398",47.882958,4.4428089,"church","Rue du Faubourg Saint-Germain, 21330 Poinçon-lès-Larrey, France","church,establishment,place_of_worship,point_of_interest","OK",1397
+"1399",40.1798489,18.0331588,"locality","Nardò, Province of Lecce, Italy","locality,political","OK",1398
+"1400",39.2574868,16.2853141,"locality","87100 Donnici Inferiore CS, Italy","locality,political","OK",1399
+"1401",43.371041,2.368613,"locality","11380 Mas-Cabardès, France","locality,political","OK",1400
+"1402",NA,NA,NA,NA,NA,"ZERO_RESULTS",1401
+"1403",41.4724397,-71.555031,"establishment","Camp Hoffman, 2850 Ministerial Rd, South Kingstown, RI 02879, United States","establishment,point_of_interest","OK",1402
+"1404",44.860025,0.503086,"route","Rue des Roses, 24100 Bergerac, France","route","OK",1403
+"1405",38.962912,16.3092719,"locality","88046 Lamezia Terme, Province of Catanzaro, Italy","locality,political","OK",1404
+"1406",NA,NA,NA,NA,NA,"ZERO_RESULTS",1405
+"1407",40.6905178,21.6797432,"locality","Aminteo 532 00, Greece","locality,political","OK",1406
+"1408",44.4257053,22.8680481,"locality","Vânju Mare, Romania","locality,political","OK",1407
+"1409",45.5322314,14.7041159,"locality","Hrvatsko, Croatia","locality,political","OK",1408
+"1410",NA,NA,NA,NA,NA,"ZERO_RESULTS",1409
+"1411",47.0134658,4.8157761,"establishment","97 Route de Pommard, 21200 Beaune, France","establishment,food,liquor_store,point_of_interest,store","OK",1410
+"1412",46.3335828,4.7350192,"route","Route de Mâcon, 71960 Prissé, France","route","OK",1411
+"1413",36.6621527,-6.1081034,"establishment","Av. de Medina Sidonia, 20, 11406 Jerez de la Frontera, Cádiz, Spain","establishment,food,point_of_interest","OK",1412
+"1414",40.1998777,-122.2011075,"establishment","Central Valley, California 96080, USA","establishment,natural_feature","OK",1413
+"1415",43.8239285,10.9953269,"bar","Via Capezzana, 100, 59015 Carmignano PO, Italy","bar,establishment,food,liquor_store,lodging,point_of_interest,restaurant,store","OK",1414
+"1416",38.6043928,22.7152125,"administrative_area_level_2","Central Greece, Greece","administrative_area_level_2,political","OK",1415
+"1417",46.945092,4.753296,"locality","21190 Puligny-Montrachet, France","locality,political","OK",1416
+"1418",NA,NA,NA,NA,NA,"ZERO_RESULTS",1417
+"1419",41.3521628,-5.7672262,"establishment","Carretera S/N,, 49708 Villanueva de Campeán, Zamora, Spain","establishment,food,point_of_interest","OK",1418
+"1420",44.5379358,1.6760691,"administrative_area_level_2","Lot, France","administrative_area_level_2,political","OK",1419
+"1421",45.6049385,10.6351414,"establishment","Lake Garda, Italy","establishment,natural_feature","OK",1420
+"1422",45.8735703,15.1057546,"route","Dolenjska avtocesta, Slovenia","route","OK",1421
+"1423",NA,NA,NA,NA,NA,"ZERO_RESULTS",1422
+"1424",40.6327278,17.9417616,"locality","72100 Brindisi, BR, Italy","locality,political","OK",1423
+"1425",-32.2315018,148.6329645,"locality","Dubbo NSW 2830, Australia","locality,political","OK",1424
+"1426",NA,NA,NA,NA,NA,"ZERO_RESULTS",1425
+"1427",-34.2883749,-70.815833,"locality","Requínoa, Requinoa, O'Higgins Region, Chile","locality,political","OK",1426
+"1428",NA,NA,NA,NA,NA,"ZERO_RESULTS",1427
+"1429",-35.7752426,137.2142417,"establishment","Kangaroo Island, South Australia, Australia","establishment,natural_feature","OK",1428
+"1430",NA,NA,NA,NA,NA,"ZERO_RESULTS",1429
+"1431",47.0525047,4.3837215,"colloquial_area","Burgundy, France","colloquial_area,political","OK",1430
+"1432",45.0212348,8.3371719,"locality","14032 Casorzo AT, Italy","locality,political","OK",1431
+"1433",NA,NA,NA,NA,NA,"ZERO_RESULTS",1432
+"1434",40.946869,22.4510542,"locality","Goumenissa 613 00, Greece","locality,political","OK",1433
+"1435",NA,NA,NA,NA,NA,"ZERO_RESULTS",1434
+"1436",41.0895812,14.4998955,"administrative_area_level_3","82019 Sant'Agata de' Goti, Province of Benevento, Italy","administrative_area_level_3,political","OK",1435
+"1437",39.399872,-8.224454,"country","Portugal","country,political","OK",1436
+"1438",37.1424653,21.9522491,"administrative_area_level_3","Messenia, Greece","administrative_area_level_3,political","OK",1437
+"1439",37.0299087,22.5245093,"administrative_area_level_3","Laconia, Greece","administrative_area_level_3,political","OK",1438
+"1440",37.8833564,23.9333037,"locality","Markopoulo Mesogeas 190 03, Greece","locality,political","OK",1439
+"1441",-35.306358,139.046794,"establishment","1640 Langhorne Creek Rd, Langhorne Creek SA 5255, Australia","establishment,food,point_of_interest","OK",1440
+"1442",NA,NA,NA,NA,NA,"ZERO_RESULTS",1441
+"1443",38.0814986,13.2889834,"locality","90046 Monreale, Province of Palermo, Italy","locality,political","OK",1442
+"1444",45.0881663,8.0737781,"route","Str. Monferrato, 14023 Tuffo AT, Italy","route","OK",1443
+"1445",43.470556,-0.924854,"locality","64270 Salies-de-Béarn, France","locality,political","OK",1444
+"1446",NA,NA,NA,NA,NA,"ZERO_RESULTS",1445
+"1447",NA,NA,NA,NA,NA,"ZERO_RESULTS",1446
+"1448",41.1947261,-6.5569882,"establishment","Arribes del Duero Natural Park, 37246, Salamanca, Spain","establishment,park,point_of_interest","OK",1447
+"1449",NA,NA,NA,NA,NA,"ZERO_RESULTS",1448
+"1450",44.8551239,-0.5892196,"route","Rue de Moulis, 33000 Bordeaux, France","route","OK",1449
+"1451",39.1111469,-121.0756669,"route","E Lime Kiln Rd, Grass Valley, CA 95949, USA","route","OK",1450
+"1452",46.279509,4.7781959,"route","Rue Mâcon-Chaintré, 71000 Mâcon, France","route","OK",1451
+"1453",NA,NA,NA,NA,NA,"ZERO_RESULTS",1452
+"1454",36.785262,11.9918779,"establishment","Pantelleria, 91017 Pantelleria, Province of Trapani, Italy","establishment,natural_feature","OK",1453
+"1455",38.113597,-122.243246,"route","Amador St, Vallejo, CA 94590, USA","route","OK",1454
+"1456",-33.2581632,149.0866321,"street_address","Hilltops, 368 Burrendong Way, Orange NSW 2800, Australia","street_address","OK",1455
+"1457",-33.6252923,18.84142,"establishment","South Africa","establishment,point_of_interest","OK",1456
+"1458",44.9266528,-123.4919256,"administrative_area_level_2","Polk County, OR, USA","administrative_area_level_2,political","OK",1457
+"1459",NA,NA,NA,NA,NA,"ZERO_RESULTS",1458
+"1460",43.7577242,4.8512089,"establishment","Alpilles, 13210 Saint-Rémy-de-Provence, France","establishment,natural_feature","OK",1459
+"1461",-35.417397,138.798555,"establishment","291 Winery Rd, Currency Creek SA 5214, Australia","establishment,food,point_of_interest","OK",1460
+"1462",46.138694,4.6100683,"establishment","134 Rue des Artisans, 69430 Quincié-en-Beaujolais, France","establishment,food,liquor_store,point_of_interest,store","OK",1461
+"1463",40.1208752,9.0128926,"establishment","Sardinia, Italy","establishment,natural_feature","OK",1462
+"1464",44.1301064,12.485213,"bar","Via Aulo Gellio, 9, 47814 Igea Marina RN, Italy","bar,establishment,lodging,point_of_interest","OK",1463
+"1465",-37.5831982,147.4627259,"colloquial_area","Gippsland, VIC, Australia","colloquial_area,political","OK",1464
+"1466",-36.9,145.75,"establishment","Strathbogie Ranges, Strathbogie VIC 3666, Australia","establishment,natural_feature","OK",1465
+"1467",NA,NA,NA,NA,NA,"ZERO_RESULTS",1466
+"1468",31.963067,-116.633992,"establishment","Rancho Cimarrón, San Antonio de Las Minas, 22766 Ensenada, B.C., Mexico","establishment,food,point_of_interest,restaurant","OK",1467
+"1469",NA,NA,NA,NA,NA,"ZERO_RESULTS",1468
+"1470",NA,NA,NA,NA,NA,"ZERO_RESULTS",1469
+"1471",NA,NA,NA,NA,NA,"ZERO_RESULTS",1470
+"1472",NA,NA,NA,NA,NA,"ZERO_RESULTS",1471
+"1473",34.7513712,-118.2522977,"establishment","Antelope Valley, Lancaster, CA 93536, USA","establishment,natural_feature","OK",1472
+"1474",43.26913,-4.249953,"bicycle_store","KM, CA-180, 5, 39513 Ucieda, Cantabria, Spain","bicycle_store,establishment,point_of_interest,store","OK",1473
+"1475",NA,NA,NA,NA,NA,"ZERO_RESULTS",1474
+"1476",35.3649881,-120.8477098,"route","Napa Ave, Morro Bay, CA 93442, USA","route","OK",1475
+"1477",-33.8335699,138.61,"establishment","Clare Valley, Clare SA 5453, Australia","establishment,natural_feature","OK",1476
+"1478",39.9276764,22.5635655,"locality","Krania 400 07, Greece","locality,political","OK",1477
+"1479",NA,NA,NA,NA,NA,"ZERO_RESULTS",1478
+"1480",38.0022977,22.5245093,"administrative_area_level_3","Corinthia, Greece","administrative_area_level_3,political","OK",1479
+"1481",45.2745018,13.8901858,"establishment","Istria","establishment,natural_feature","OK",1480
+"1482",47.0369285,4.838344,"route","Rue des Bressandes, 21200 Beaune, France","route","OK",1481
+"1483",34.862034,33.015041,"establishment","Commandaria street, Zoopigi, Οδος Κουμανταρίας, Ζωοπηγή, Limassol 4565, Cyprus","establishment,museum,point_of_interest","OK",1482
+"1484",-41.0790031,175.6545577,"locality","Gladstone, New Zealand","locality,political","OK",1483
+"1485",-33.1775166,-68.6113055,"locality","Medrano, Mendoza, Argentina","locality,political","OK",1484
+"1486",38.4293578,-122.6339651,"route","Lake Trail, Santa Rosa, CA 95404, USA","route","OK",1485
+"1487",45.5172317,11.0229028,"establishment","Via Asiago, 1, 37023 Grezzana VR, Italy","establishment,food,point_of_interest","OK",1486
+"1488",NA,NA,NA,NA,NA,"ZERO_RESULTS",1487
+"1489",31.7137,34.98345,"route","Yerushalayim St, Bet Shemesh, Israel","route","OK",1488
+"1490",NA,NA,NA,NA,NA,"ZERO_RESULTS",1489
+"1491",-35.0566492,148.102061,"locality","Gundagai NSW 2722, Australia","locality,political","OK",1490
+"1492",NA,NA,NA,NA,NA,"ZERO_RESULTS",1491
+"1493",-35.0809029,138.8634671,"locality","Mount Barker SA 5251, Australia","locality,political","OK",1492
+"1494",NA,NA,NA,NA,NA,"ZERO_RESULTS",1493
+"1495",-32.90107,-68.842846,"establishment","Cap. de Frag. Moyano 57, 5500, Mendoza, Argentina","establishment,point_of_interest","OK",1494
+"1496",43.462347,3.409159,"route","Résidence le Coteau de Molière, 34120 Pézenas, France","route","OK",1495
+"1497",NA,NA,NA,NA,NA,"ZERO_RESULTS",1496
+"1498",NA,NA,NA,NA,NA,"ZERO_RESULTS",1497
+"1499",NA,NA,NA,NA,NA,"ZERO_RESULTS",1498
+"1500",NA,NA,NA,NA,NA,"ZERO_RESULTS",1499
+"1501",40.2644928,24.2152731,"administrative_area_level_1","Mount Athos, Greece","administrative_area_level_1,political","OK",1500
+"1502",NA,NA,NA,NA,NA,"ZERO_RESULTS",1501
+"1503",38.8066307,-9.4426867,"locality","2705 Colares, Portugal","locality,political","OK",1502
+"1504",NA,NA,NA,NA,NA,"ZERO_RESULTS",1503
+"1505",-34.0517493,18.9264524,"political","Helderberg Rural, Sir Lowry's Pass, 7130, South Africa","political,sublocality,sublocality_level_2","OK",1504
+"1506",NA,NA,NA,NA,NA,"ZERO_RESULTS",1505
+"1507",33.5731104,-7.5898434,"locality","Casablanca, Morocco","locality,political","OK",1506
+"1508",NA,NA,NA,NA,NA,"ZERO_RESULTS",1507
+"1509",NA,NA,NA,NA,NA,"ZERO_RESULTS",1508
+"1510",NA,NA,NA,NA,NA,"ZERO_RESULTS",1509
+"1511",-34.6128922,-68.3390622,"locality","San Rafael, Mendoza Province, Argentina","locality,political","OK",1510
+"1512",42.6581356,11.6455585,"locality","58010 Sovana, Province of Grosseto, Italy","locality,political","OK",1511
+"1513",40.822383,14.4289058,"establishment","Mount Vesuvius, 80044 Ottaviano, Metropolitan City of Naples, Italy","establishment,natural_feature","OK",1512
+"1514",NA,NA,NA,NA,NA,"ZERO_RESULTS",1513
+"1515",-35.7694861,148.0057003,"locality","Tumbarumba NSW 2653, Australia","locality,political","OK",1514
+"1516",47.1537165,16.2688797,"administrative_area_level_1","Burgenland, Austria","administrative_area_level_1,political","OK",1515
+"1517",-35.52,147.035,"locality","Henty NSW 2658, Australia","locality,political","OK",1516
+"1518",50.681657,1.6258999,"locality","62360 Saint-Étienne-au-Mont, France","locality,political","OK",1517
+"1519",44.1496209,4.685659,"route","Chemin du Rhône, 30200 Chusclan, France","route","OK",1518
+"1520",43.4452157,2.9818395,"route","Route de Saint Chinian, 34360, France","route","OK",1519
+"1521",-34.2500139,18.4157357,"political","Cape Peninsula, Cape Town, South Africa","political,sublocality,sublocality_level_2","OK",1520
+"1522",45.4379211,10.6029836,"locality","25015 San Martino della Battaglia BS, Italy","locality,political","OK",1521
+"1523",-38.1499181,144.3617186,"locality","Geelong VIC 3220, Australia","locality,political","OK",1522
+"1524",47.068866,4.859158,"route","Les Perrières, 21420 Aloxe-Corton, France","route","OK",1523
+"1525",-36.729605,146.969035,"establishment","2 Churchill Ave, Bright VIC 3741, Australia","establishment,point_of_interest,travel_agency","OK",1524
+"1526",NA,NA,NA,NA,NA,"ZERO_RESULTS",1525
+"1527",38.6043928,22.7152125,"administrative_area_level_2","Central Greece, Greece","administrative_area_level_2,political","OK",1526
+"1528",NA,NA,NA,NA,NA,"ZERO_RESULTS",1527
+"1529",NA,NA,NA,NA,NA,"ZERO_RESULTS",1528
+"1530",47.3236158,-0.6185059,"establishment","1 Impasse du Chanoine de Douves, 49750 Beaulieu-sur-Layon, France","establishment,food,point_of_interest","OK",1529
+"1531",NA,NA,NA,NA,NA,"ZERO_RESULTS",1530
+"1532",40.6060067,22.1430215,"administrative_area_level_3","Imathia, Greece","administrative_area_level_3,political","OK",1531
+"1533",40.3133521,-7.8007077,"neighborhood","Alentejo, 3400 Oliveira do Hospital, Portugal","neighborhood,political","OK",1532
+"1534",38.113597,-122.243246,"route","Amador St, Vallejo, CA 94590, USA","route","OK",1533
+"1535",38.758012,-122.6235144,"route","Napa Ave, Middletown, CA 95461, USA","route","OK",1534
+"1536",NA,NA,NA,NA,NA,"ZERO_RESULTS",1535
+"1537",45.7448951,12.091452,"intersection","Vicolo Colli Asolani, 31040 Trevignano TV, Italy","intersection","OK",1536
+"1538",NA,NA,NA,NA,NA,"ZERO_RESULTS",1537
+"1539",46.1618131,-1.1472023,"establishment","18 Av. Jean Guiton, 17000 La Rochelle, France","establishment,point_of_interest","OK",1538
+"1540",NA,NA,NA,NA,NA,"ZERO_RESULTS",1539
+"1541",37.0453988,-121.9579578,"administrative_area_level_2","Santa Cruz County, CA, USA","administrative_area_level_2,political","OK",1540
+"1542",NA,NA,NA,NA,NA,"ZERO_RESULTS",1541
+"1543",38.4269146,-122.712716,"car_repair","1110 Santa Rosa Ave, Santa Rosa, CA 95404, USA","car_repair,establishment,point_of_interest,store","OK",1542
+"1544",NA,NA,NA,NA,NA,"ZERO_RESULTS",1543
+"1545",42.4072107,-71.3824374,"administrative_area_level_1","Massachusetts, USA","administrative_area_level_1,political","OK",1544
+"1546",45.420053,-75.7078959,"establishment","395 Wellington St, Ottawa, ON K1A 0N4, Canada","establishment,library,point_of_interest","OK",1545
+"1547",NA,NA,NA,NA,NA,"ZERO_RESULTS",1546
+"1548",43.573772,11.346905,"establishment","Località Ruffoli, Località Barbiano, 7, 50022 Greve in Chianti FI, Italy","establishment,food,point_of_interest","OK",1547
+"1549",-34.5479968,150.3037323,"colloquial_area","Southern Highlands, NSW, Australia","colloquial_area,political","OK",1548
+"1550",47.159051,4.954572,"locality","Vosne-Romanée, France","locality,political","OK",1549
+"1551",NA,NA,NA,NA,NA,"ZERO_RESULTS",1550
+"1552",38.759642,-123.0915605,"establishment","Lake Sonoma, California, USA","establishment,natural_feature","OK",1551
+"1553",NA,NA,NA,NA,NA,"ZERO_RESULTS",1552
+"1554",41.7217149,-82.8201872,"locality","Isle St George, OH 43436, USA","locality,political","OK",1553
+"1555",44.7685409,5.284011,"establishment","Le Village, 26150 Sainte-Croix, France","establishment,food,point_of_interest","OK",1554
+"1556",-33.8335699,138.61,"establishment","Clare Valley, Clare SA 5453, Australia","establishment,natural_feature","OK",1555
+"1557",NA,NA,NA,NA,NA,"ZERO_RESULTS",1556
+"1558",28.2915637,-16.6291304,"administrative_area_level_1","Canary Islands, Spain","administrative_area_level_1,political","OK",1557
+"1559",44.7004186,8.5234983,"locality","15019 Strevi AL, Italy","locality,political","OK",1558
+"1560",-35.3086252,149.1357714,"establishment","2/55 Blackall St, Barton ACT 2600, Australia","establishment,point_of_interest","OK",1559
+"1561",-34.3142878,139.8547266,"colloquial_area","Riverland, SA, Australia","colloquial_area,political","OK",1560
+"1562",41.616351,-4.410638,"establishment","Abadía Retuerta LeDomaine, 47195 Sardón de Duero, Valladolid, Valladolid, Spain","establishment,food,lodging,point_of_interest,restaurant","OK",1561
+"1563",33.7998245,-96.5783387,"colloquial_area","Texoma, USA","colloquial_area,political","OK",1562
+"1564",38.7107366,-122.0471933,"establishment","Capay Valley, California 95627, USA","establishment,natural_feature","OK",1563
+"1565",-35.5,138.5,"establishment","Fleurieu Peninsula, Inman Valley SA 5211, Australia","establishment,natural_feature","OK",1564
+"1566",NA,NA,NA,NA,NA,"ZERO_RESULTS",1565
+"1567",37.6720944,21.4378482,"route","Letrinon, Pirgos 271 00, Greece","route","OK",1566
+"1568",NA,NA,NA,NA,NA,"ZERO_RESULTS",1567
+"1569",NA,NA,NA,NA,NA,"ZERO_RESULTS",1568
+"1570",39.6672442,20.8503043,"establishment","Stadiou 12, Ioannina 453 33, Greece","establishment,point_of_interest,school","OK",1569
+"1571",42.526752,3.084631,"locality","Collioure, France","locality,political","OK",1570
+"1572",43.734434,3.549015,"locality","34150 Saint-Guilhem-le-Désert, France","locality,political","OK",1571
+"1573",-30.0002315,136.2091547,"administrative_area_level_1","South Australia, Australia","administrative_area_level_1,political","OK",1572
+"1574",NA,NA,NA,NA,NA,"ZERO_RESULTS",1573
+"1575",43.8041334,-120.5542012,"administrative_area_level_1","Oregon, USA","administrative_area_level_1,political","OK",1574
+"1576",19.5429151,-155.6658568,"establishment","Island of Hawai'i, Hawaii, USA","establishment,natural_feature","OK",1575
+"1577",43.4676324,11.0434909,"locality","53037 San Gimignano, Province of Siena, Italy","locality,political","OK",1576
+"1578",47.465674,3.746143,"locality","89450 Vézelay, France","locality,political","OK",1577
+"1579",NA,NA,NA,NA,NA,"ZERO_RESULTS",1578
+"1580",NA,NA,NA,NA,NA,"ZERO_RESULTS",1579
+"1581",35.9586139,-96.0020375,"cafe","480 E 141st St, Glenpool, OK 74033, USA","cafe,establishment,food,point_of_interest,restaurant","OK",1580
+"1582",39.9198413,25.141484,"establishment","Lemnos, Greece","establishment,natural_feature","OK",1581
+"1583",26.820553,30.802498,"country","Egypt","country,political","OK",1582
+"1584",45.7721979,21.2048007,"route","Aleea Viilor, Timișoara, Romania","route","OK",1583
+"1585",42.7145043,2.8417137,"route","Rue des Lauriers Roses, 66240 Saint-Estève, France","route","OK",1584
+"1586",NA,NA,NA,NA,NA,"ZERO_RESULTS",1585
+"1587",44.816677,0.0710167,"route","Cote de La Tourbeille, 33890 Juillac, France","route","OK",1586
+"1588",-33.9224259,18.8188535,"route","Devon Valley Rd, Devonvallei, Stellenbosch, 7600, South Africa","route","OK",1587
+"1589",45.0809356,14.5925861,"establishment","Krk, Croatia","establishment,natural_feature","OK",1588
+"1590",37.5557825,22.3337769,"administrative_area_level_3","Arcadia, Greece","administrative_area_level_3,political","OK",1589
+"1591",NA,NA,NA,NA,NA,"ZERO_RESULTS",1590
+"1592",-34.8311111,20.0130556,"establishment","Cape Agulhas, South Africa","establishment,natural_feature","OK",1591
+"1593",NA,NA,NA,NA,NA,"ZERO_RESULTS",1592
+"1594",NA,NA,NA,NA,NA,"ZERO_RESULTS",1593
+"1595",34.9137456,32.4184108,"locality","Kathikas, Cyprus","locality,political","OK",1594
+"1596",NA,NA,NA,NA,NA,"ZERO_RESULTS",1595
+"1597",NA,NA,NA,NA,NA,"ZERO_RESULTS",1596
+"1598",41.942646,-87.663582,"establishment","3335 N Southport Ave, Chicago, IL 60657, USA","establishment,food,point_of_interest,restaurant","OK",1597
+"1599",40.4349907,18.0421742,"locality","73018 Squinzano, Province of Lecce, Italy","locality,political","OK",1598
+"1600",-34.5333333,138.95,"establishment","Barossa Valley, Tanunda SA 5352, Australia","establishment,natural_feature","OK",1599
+"1601",NA,NA,NA,NA,NA,"ZERO_RESULTS",1600
+"1602",38.176892,-122.2664335,"route","Monterey Dr, American Canyon, CA 94503, USA","route","OK",1601
+"1603",NA,NA,NA,NA,NA,"ZERO_RESULTS",1602
+"1604",43.6751197,3.4798336,"establishment","3 Chemin du Mas Jullien, 34725 Jonquières, France","establishment,food,liquor_store,point_of_interest,store","OK",1603
+"1605",39.2645095,26.2777073,"establishment","Lesbos, Greece","establishment,natural_feature","OK",1604
+"1606",NA,NA,NA,NA,NA,"ZERO_RESULTS",1605
+"1607",41.1372854,-7.7763087,"establishment","Rio Varosa, 5100, Portugal","establishment,natural_feature","OK",1606
+"1608",32.7157305,-117.1610966,"administrative_area_level_2","San Diego County, CA, USA","administrative_area_level_2,political","OK",1607
+"1609",43.1686664,-79.0067106,"colloquial_area","Escarpment, Lewiston, NY 14092, USA","colloquial_area,political","OK",1608
+"1610",38.759642,-123.0915605,"establishment","Lake Sonoma, California, USA","establishment,natural_feature","OK",1609
+"1611",34.4346011,-119.8747057,"route","Sonoma Ave, Goleta, CA 93117, USA","route","OK",1610
+"1612",46.9899874,6.9292732,"locality","Neuchâtel, Switzerland","locality,political","OK",1611
+"1613",41.9061177,12.4895417,"route","Via Vittorio Veneto, 00187 Roma RM, Italy","route","OK",1612
+"1614",45.539255,10.726497,"bar","Hotel Campagnola 3 Stelle Superior, Via Santa Cristina, 30, 37011 Bardolino VR, Italy","bar,establishment,lodging,park,parking,point_of_interest","OK",1613
+"1615",40.424827,15.0769562,"administrative_area_level_3","84047 Capaccio, Province of Salerno, Italy","administrative_area_level_3,political","OK",1614

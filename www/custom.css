@@ -1,0 +1,8 @@
+.content-wrapper,
+
+#example1 {
+    background-image: url(https://ak1.picdn.net/shutterstock/videos/9901991/thumb/11.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

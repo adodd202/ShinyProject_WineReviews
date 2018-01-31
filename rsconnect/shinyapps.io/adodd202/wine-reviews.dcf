@@ -1,0 +1,12 @@
+name: wine-reviews
+title: wine-reviews
+username:
+account: adodd202
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 264759
+bundleId: 1197159
+url: https://adodd202.shinyapps.io/wine-reviews/
+when: 1517197155.41335
+asMultiple: FALSE
+asStatic: FALSE
