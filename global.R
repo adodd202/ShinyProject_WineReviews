@@ -13,7 +13,7 @@ library(MASS)
 library(Matrix)
 library(lsa)
 
-wine <- fread(file = "wine4.csv")
+wine <- fread(file = "./Data/wine4.csv")
 wine2 = wine
 
 
@@ -35,10 +35,10 @@ variety = "Riesling"
 
 
 #Lexicon 
-lexicon <- fread(file = "lexicon.csv")
+lexicon <- fread(file = "./Data/lexicon.csv")
 listLex = as.character(lexicon$ST)
-mm = get(load("smartWine.Rdata"))
-wine3000 <- fread(file = "wine3000.csv") #Read the 3000 wines to choose from
+mm = get(load("./Data/smartWine.Rdata"))
+wine3000 <- fread(file = "./Data/wine3000.csv") #Read the 3000 wines to choose from
 ctrl <- list(
   removePunctuation = list(preserve_intra_word_dashes = TRUE),
   stopwords = TRUE,
