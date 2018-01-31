@@ -45,15 +45,12 @@ shinyUI(dashboardPage(
     tabItem(tabName = "wine",
             fluidRow(
               tabBox(
-                #title = "Wine Plots",
                 id = "tabset1", height = "250px", width = '100%',
                 tabPanel("Wine Plots",
                          fluidRow(
                          column(width = 6,
                          plotOutput("winePlot1")
                          ),
-                         #br(),
-                         #br(),
                          column(width = 6,
                          plotOutput("winePlot2")))
                         ),
@@ -126,11 +123,6 @@ shinyUI(dashboardPage(
                        sliderInput("maxPrice2","Max Price",min = 0,max = 2000, 50),
                        tags$head(tags$style("#maxPrice2 {color:black;}")))
               ), width = 12)),
-                # textInput("inputText"," ", "Type search (e.g.: 'sweet dessert wines from southern france'):"),
-                # actionButton("search", label = "Search"), 
-                # sliderInput("maxPrice2","Maximum Price",min = 0,max = 2000, 50),
-                # tags$head(tags$style("#text1{color: black;
-                #                      font-size: 15px;}"))),
               title = "Wine Suggestions",
               box(tableOutput('wineTable'), width = 12),
               tags$head(tags$style("#wineTable table {color: black; background: white; }", media="screen", type="text/css")),

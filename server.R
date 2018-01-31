@@ -61,7 +61,7 @@ shinyServer(function(input, output, session) {
       if (input1 != "Any"){
         wineOutput2  = wineOutput2  %>% filter(variety == input1)
       }
-      wineOutput2  = wineOutput2  %>% filter(price  <= input2)
+      wineOutput2  = wineOutput2  %>% filter(price  <= input2) %>% head(50)
       wineOutput2 = wineOutput2[c("title", "description", "variety","country","price","points")]
       wineOutput2 = wineOutput2 %>% arrange(desc(points))
       wineOutput2 = setnames(wineOutput2, old=c("title","description","variety","country","price","points"),
@@ -106,12 +106,17 @@ shinyServer(function(input, output, session) {
   # CUSTOM RESULT GENERATOR
   ################################################################
   
+  # The following code is a little convoluted. The overall effect of it is to
+  # perform a cosine similarity matrix multiplication between the input string
+  # and the 3000 wine word vectors. The closest word vectors are sorted by rating (top first)
+  # and returned.
   wineOutput = wine3000
   makeReactiveBinding("wineOutput")
   wineOutputDF <- reactive({
     input$search
     isolate({
       nrow1 = 1000
+      # Generating user input vector of 1000 values.
       UserInput = input$inputText
       maxPrice2 = input$maxPrice2
       tdm_user = TermDocumentMatrix(Corpus(VectorSource(UserInput)), control = ctrl)
@@ -122,9 +127,16 @@ shinyServer(function(input, output, session) {
       freqOneDesc_user = freqDF_user %>% filter(!grepl("[0-9]{5,}",ST))
       vec = seq(1,nrow1)
       descripOne_user = paste(freqOneDesc_user$ST, sep = " ", collapse = " ")
+      # This changes the user input vector to reflect the lexicon words. For
+      # example if lexicon has "apple" at place 345, then userV1 will have a 1 in this
+      # position.
       userV1 = sapply(vec,function(x) {x = 1*grepl(listLex[x],descripOne_user)})
       vecResults = seq(1:3000)
+      
+      #Performing the cosine similirity.
       vecResults = sapply(vecResults,function(x) {x = cosine(userV1,mm[,x])})
+    
+      # Taking the top 100 results.
       whichpart <- function(x, n) {
         nx <- length(x)
         p <- nx-n
@@ -132,7 +144,11 @@ shinyServer(function(input, output, session) {
         which(x > xp) 
       }
       wineIndices = whichpart(vecResults,n = 100)
+      
+      # Filtering our 3000 wines by these indices 
       wineOutput = data.frame(wine3000[wineIndices,])
+      
+      # Final wine column name changes.
       wineOutput = wineOutput[c("title", "description", "variety","country","price","points")]
       wineOutput = wineOutput %>%
         filter(price  <= maxPrice2) %>% 
